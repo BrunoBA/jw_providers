@@ -1,0 +1,8140 @@
+[
+  {
+    "id": 246,
+    "technical_name": "sevenplus",
+    "short_name": "spl",
+    "clear_name": "7plus",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/195609058/{profile}",
+    "slug": "7plus"
+  },
+  {
+    "id": 378,
+    "technical_name": "ninenow",
+    "short_name": "nnw",
+    "clear_name": "9Now",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/174664462/{profile}",
+    "slug": "9now"
+  },
+  {
+    "id": 1827,
+    "technical_name": "aspor",
+    "short_name": "asr",
+    "clear_name": "A Spor",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302100697/{profile}",
+    "slug": "a-spor"
+  },
+  {
+    "id": 156,
+    "technical_name": "aetv",
+    "short_name": "aae",
+    "clear_name": "A&E",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/6675987/{profile}",
+    "slug": "aande"
+  },
+  {
+    "id": 148,
+    "technical_name": "abcgo",
+    "short_name": "abc",
+    "clear_name": "ABC",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/5983493/{profile}",
+    "slug": "abc"
+  },
+  {
+    "id": 135,
+    "technical_name": "iview",
+    "short_name": "ivw",
+    "clear_name": "ABC iview",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/4953531/{profile}",
+    "slug": "abc-iview"
+  },
+  {
+    "id": 1884,
+    "technical_name": "abematv",
+    "short_name": "aba",
+    "clear_name": "ABEMA",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712576/{profile}",
+    "slug": "abema"
+  },
+  {
+    "id": 398,
+    "technical_name": "ahctv",
+    "short_name": "ahc",
+    "clear_name": "AHCTV",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433889/{profile}",
+    "slug": "ahctv"
+  },
+  {
+    "id": 80,
+    "technical_name": "amc",
+    "short_name": "amc",
+    "clear_name": "AMC",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/922527/{profile}",
+    "slug": "amc"
+  },
+  {
+    "id": 1854,
+    "technical_name": "appletvamcplus",
+    "short_name": "aat",
+    "clear_name": "AMC Plus Apple TV Channel ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303391393/{profile}",
+    "slug": "amc-plus-apple-tv-channel"
+  },
+  {
+    "id": 162,
+    "technical_name": "amctheatres",
+    "short_name": "amt",
+    "clear_name": "AMC Theatres",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/7425739/{profile}",
+    "slug": "amc-theatres"
+  },
+  {
+    "id": 352,
+    "technical_name": "amctheatresondemand",
+    "short_name": "amo",
+    "clear_name": "AMC on Demand",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/166008757/{profile}",
+    "slug": "amc-on-demand"
+  },
+  {
+    "id": 526,
+    "technical_name": "amcplus",
+    "short_name": "acp",
+    "clear_name": "AMC+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/277399832/{profile}",
+    "slug": "amc-plus"
+  },
+  {
+    "id": 528,
+    "technical_name": "amazonamcplus",
+    "short_name": "azp",
+    "clear_name": "AMC+ Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732522/{profile}",
+    "slug": "amc-amazon-channel"
+  },
+  {
+    "id": 635,
+    "technical_name": "rokuchannelamcplus",
+    "short_name": "ark",
+    "clear_name": "AMC+ Roku Premium Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252888472/{profile}",
+    "slug": "amc-roku-premium-channel"
+  },
+  {
+    "id": 219,
+    "technical_name": "daserstemediathek",
+    "short_name": "dem",
+    "clear_name": "ARD Mediathek",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/305906930/{profile}",
+    "slug": "ard-mediathek"
+  },
+  {
+    "id": 1902,
+    "technical_name": "ardplus",
+    "short_name": "ard",
+    "clear_name": "ARD Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304975360/{profile}",
+    "slug": "ard-plus"
+  },
+  {
+    "id": 529,
+    "technical_name": "arrowplayer",
+    "short_name": "awp",
+    "clear_name": "ARROW",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/241658074/{profile}",
+    "slug": "arrow"
+  },
+  {
+    "id": 1725,
+    "technical_name": "avars",
+    "short_name": "avg",
+    "clear_name": "AVA BGB",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292313810/{profile}",
+    "slug": "ava-bgb"
+  },
+  {
+    "id": 1724,
+    "technical_name": "avach",
+    "short_name": "avc",
+    "clear_name": "AVA CSAL",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292313797/{profile}",
+    "slug": "ava-csal"
+  },
+  {
+    "id": 1723,
+    "technical_name": "avanrw",
+    "short_name": "avh",
+    "clear_name": "AVA HBZ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292313740/{profile}",
+    "slug": "ava-hbz"
+  },
+  {
+    "id": 1722,
+    "technical_name": "avaberlin",
+    "short_name": "avb",
+    "clear_name": "AVA VOBB",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292313602/{profile}",
+    "slug": "ava-vobb"
+  },
+  {
+    "id": 1717,
+    "technical_name": "acontraplus",
+    "short_name": "aco",
+    "clear_name": "Acontra Plus",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/286186025/{profile}",
+    "slug": "acontra-plus"
+  },
+  {
+    "id": 1742,
+    "technical_name": "amazonacontra",
+    "short_name": "aaa",
+    "clear_name": "Acontra Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993892/{profile}",
+    "slug": "acontra-plus-amazon-channel"
+  },
+  {
+    "id": 87,
+    "technical_name": "acorntv",
+    "short_name": "act",
+    "clear_name": "Acorn TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/151881328/{profile}",
+    "slug": "acorn-tv"
+  },
+  {
+    "id": 196,
+    "technical_name": "amazonacorntv",
+    "short_name": "aac",
+    "clear_name": "AcornTV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732555/{profile}",
+    "slug": "acorntv-amazon-channel"
+  },
+  {
+    "id": 1733,
+    "technical_name": "amazonactionmax",
+    "short_name": "aca",
+    "clear_name": "Action Max Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993608/{profile}",
+    "slug": "action-max-amazon-channel"
+  },
+  {
+    "id": 318,
+    "technical_name": "adultswim",
+    "short_name": "ads",
+    "clear_name": "Adult Swim",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/141261090/{profile}",
+    "slug": "adult-swim"
+  },
+  {
+    "id": 547,
+    "technical_name": "alamoondemand",
+    "short_name": "alm",
+    "clear_name": "Alamo on Demand",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/243230574/{profile}",
+    "slug": "alamo-on-demand"
+  },
+  {
+    "id": 33,
+    "technical_name": "alleskino",
+    "short_name": "als",
+    "clear_name": "Alleskino",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/614496/{profile}",
+    "slug": "alleskino"
+  },
+  {
+    "id": 319,
+    "technical_name": "altbalaji",
+    "short_name": "abj",
+    "clear_name": "Alt Balaji",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/141488812/{profile}",
+    "slug": "alt-balaji"
+  },
+  {
+    "id": 533,
+    "technical_name": "amazonarthaus",
+    "short_name": "aah",
+    "clear_name": "Amazon Arthaus Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/242634444/{profile}",
+    "slug": "amazon-arthaus-channel"
+  },
+  {
+    "id": 50,
+    "technical_name": "amazondvdbr",
+    "short_name": "adb",
+    "clear_name": "Amazon DVD / Blu-ray",
+    "monetization_types": [
+      "buy"
+    ],
+    "icon_url": "/icon/774988/{profile}",
+    "slug": "amazon-dvd-blu-ray"
+  },
+  {
+    "id": 119,
+    "technical_name": "amazonprimevideo",
+    "short_name": "prv",
+    "clear_name": "Amazon Prime Video",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/52449861/{profile}",
+    "slug": "amazon-prime-video"
+  },
+  {
+    "id": 9,
+    "technical_name": "amazonprime",
+    "short_name": "amp",
+    "clear_name": "Amazon Prime Video",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/52449539/{profile}",
+    "slug": "amazon-prime-video"
+  },
+  {
+    "id": 10,
+    "technical_name": "amazon",
+    "short_name": "amz",
+    "clear_name": "Amazon Video",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/430993/{profile}",
+    "slug": "amazon-video"
+  },
+  {
+    "id": 1898,
+    "technical_name": "amazonminitv",
+    "short_name": "mni",
+    "clear_name": "Amazon miniTV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/304883020/{profile}",
+    "slug": "amazon-minitv"
+  },
+  {
+    "id": 116,
+    "technical_name": "amediateka",
+    "short_name": "ama",
+    "clear_name": "Amediateka",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/3701911/{profile}",
+    "slug": "amediateka"
+  },
+  {
+    "id": 399,
+    "technical_name": "animalplanet",
+    "short_name": "apl",
+    "clear_name": "Animal Planet",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433891/{profile}",
+    "slug": "animal-planet"
+  },
+  {
+    "id": 1888,
+    "technical_name": "amazonanimedigitalfr",
+    "short_name": "aad",
+    "clear_name": "Animation Digital Network Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304871965/{profile}",
+    "slug": "animation-digital-network-amazon-channel"
+  },
+  {
+    "id": 195,
+    "technical_name": "amazonanimaxplus",
+    "short_name": "aan",
+    "clear_name": "Animax Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732481/{profile}",
+    "slug": "animax-plus-amazon-channel"
+  },
+  {
+    "id": 415,
+    "technical_name": "animedigitalnetwork",
+    "short_name": "adn",
+    "clear_name": "Anime Digital Networks",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300554261/{profile}",
+    "slug": "anime-digital-networks"
+  },
+  {
+    "id": 1895,
+    "technical_name": "amazonanimegeneration",
+    "short_name": "aag",
+    "clear_name": "Anime Generation Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304873592/{profile}",
+    "slug": "anime-generation-amazon-channel"
+  },
+  {
+    "id": 707,
+    "technical_name": "amazonaniverse",
+    "short_name": "ava",
+    "clear_name": "Aniverse Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/278652642/{profile}",
+    "slug": "aniverse-amazon-channel"
+  },
+  {
+    "id": 1912,
+    "technical_name": "apollofilms",
+    "short_name": "apf",
+    "clear_name": "Apollo",
+    "monetization_types": [
+      "buy"
+    ],
+    "icon_url": "/icon/305591817/{profile}",
+    "slug": "apollo"
+  },
+  {
+    "id": 2,
+    "technical_name": "itunes",
+    "short_name": "itu",
+    "clear_name": "Apple TV",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/190848813/{profile}",
+    "slug": "apple-tv"
+  },
+  {
+    "id": 350,
+    "technical_name": "appletvplus",
+    "short_name": "atp",
+    "clear_name": "Apple TV Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/152862153/{profile}",
+    "slug": "apple-tv-plus"
+  },
+  {
+    "id": 534,
+    "technical_name": "argo",
+    "short_name": "arg",
+    "clear_name": "Argo",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/242706549/{profile}",
+    "slug": "argo"
+  },
+  {
+    "id": 596,
+    "technical_name": "amazonarrowvideo",
+    "short_name": "aav",
+    "clear_name": "Arrow Video Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248032558/{profile}",
+    "slug": "arrow-video-amazon-channel"
+  },
+  {
+    "id": 234,
+    "technical_name": "arte",
+    "short_name": "art",
+    "clear_name": "Arte",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/94568507/{profile}",
+    "slug": "arte"
+  },
+  {
+    "id": 687,
+    "technical_name": "amazonarthousecnma",
+    "short_name": "acm",
+    "clear_name": "Arthouse CNMA Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259303812/{profile}",
+    "slug": "arthouse-cnma-amazon-channel"
+  },
+  {
+    "id": 481,
+    "technical_name": "arthousecnma",
+    "short_name": "cnm",
+    "clear_name": "ArthouseCNMA",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209710340/{profile}",
+    "slug": "arthousecnma"
+  },
+  {
+    "id": 514,
+    "technical_name": "asiancrush",
+    "short_name": "asc",
+    "clear_name": "AsianCrush",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209565865/{profile}",
+    "slug": "asiancrush"
+  },
+  {
+    "id": 62,
+    "technical_name": "atres",
+    "short_name": "atr",
+    "clear_name": "Atres Player",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/179272126/{profile}",
+    "slug": "atres-player"
+  },
+  {
+    "id": 1815,
+    "technical_name": "azteca7",
+    "short_name": "az7",
+    "clear_name": "Azteca 7",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301671027/{profile}",
+    "slug": "azteca-7"
+  },
+  {
+    "id": 397,
+    "technical_name": "bbcamerica",
+    "short_name": "bca",
+    "clear_name": "BBC America",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/198412956/{profile}",
+    "slug": "bbc-america"
+  },
+  {
+    "id": 610,
+    "technical_name": "amazonbbcearth",
+    "short_name": "abe",
+    "clear_name": "BBC Earth Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045150/{profile}",
+    "slug": "bbc-earth-amazon-channel"
+  },
+  {
+    "id": 285,
+    "technical_name": "amazonbbcplayer",
+    "short_name": "abp",
+    "clear_name": "BBC Player Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732580/{profile}",
+    "slug": "bbc-player-amazon-channel"
+  },
+  {
+    "id": 38,
+    "technical_name": "bbc",
+    "short_name": "bbc",
+    "clear_name": "BBC iPlayer",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/694553/{profile}",
+    "slug": "bbc-iplayer"
+  },
+  {
+    "id": 224,
+    "technical_name": "bfi",
+    "short_name": "bfi",
+    "clear_name": "BFI Player",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "free"
+    ],
+    "icon_url": "/icon/90084630/{profile}",
+    "slug": "bfi-player"
+  },
+  {
+    "id": 287,
+    "technical_name": "amazonbfiplayer",
+    "short_name": "abf",
+    "clear_name": "BFI Player Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732527/{profile}",
+    "slug": "bfi-player-amazon-channel"
+  },
+  {
+    "id": 385,
+    "technical_name": "binge",
+    "short_name": "bng",
+    "clear_name": "BINGE",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/183470172/{profile}",
+    "slug": "binge"
+  },
+  {
+    "id": 1908,
+    "technical_name": "blasttvesports",
+    "short_name": "bla",
+    "clear_name": "BLAST.tv",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/305250213/{profile}",
+    "slug": "blast-tv"
+  },
+  {
+    "id": 1871,
+    "technical_name": "benficatv",
+    "short_name": "ben",
+    "clear_name": "BTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304469228/{profile}",
+    "slug": "btv"
+  },
+  {
+    "id": 1911,
+    "technical_name": "ballysports",
+    "short_name": "bsp",
+    "clear_name": "Bally Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305470662/{profile}",
+    "slug": "bally-sports"
+  },
+  {
+    "id": 1847,
+    "technical_name": "tvbandsports",
+    "short_name": "ban",
+    "clear_name": "Band Sports",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302865136/{profile}",
+    "slug": "band-sports"
+  },
+  {
+    "id": 59,
+    "technical_name": "bbox",
+    "short_name": "box",
+    "clear_name": "Bbox VOD",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/810793/{profile}",
+    "slug": "bbox-vod"
+  },
+  {
+    "id": 311,
+    "technical_name": "betv",
+    "short_name": "btv",
+    "clear_name": "Be TV Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/139612726/{profile}",
+    "slug": "be-tv-go"
+  },
+  {
+    "id": 448,
+    "technical_name": "beamafilm",
+    "short_name": "bmf",
+    "clear_name": "Beamafilm",
+    "monetization_types": [
+      "rent",
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/202329257/{profile}",
+    "slug": "beamafilm"
+  },
+  {
+    "id": 1829,
+    "technical_name": "behindthetree",
+    "short_name": "bht",
+    "clear_name": "Behind the Tree",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/302132146/{profile}",
+    "slug": "behind-the-tree"
+  },
+  {
+    "id": 447,
+    "technical_name": "belasartesalacarte",
+    "short_name": "bac",
+    "clear_name": "Belas Artes à La Carte",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/202326287/{profile}",
+    "slug": "belas-artes-a-la-carte"
+  },
+  {
+    "id": 465,
+    "technical_name": "believe",
+    "short_name": "bli",
+    "clear_name": "Believe",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/207957738/{profile}",
+    "slug": "believe"
+  },
+  {
+    "id": 1738,
+    "technical_name": "amazonbenshi",
+    "short_name": "bna",
+    "clear_name": "Benshi Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993705/{profile}",
+    "slug": "benshi-amazon-channel"
+  },
+  {
+    "id": 1759,
+    "technical_name": "betplus",
+    "short_name": "bet",
+    "clear_name": "Bet+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300312535/{profile}",
+    "slug": "bet-plus"
+  },
+  {
+    "id": 343,
+    "technical_name": "amazonbetplus",
+    "short_name": "bpc",
+    "clear_name": "Bet+ Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732519/{profile}",
+    "slug": "bet-amazon-channel"
+  },
+  {
+    "id": 466,
+    "technical_name": "bioskoponline",
+    "short_name": "bso",
+    "clear_name": "Bioskop Online",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/207956965/{profile}",
+    "slug": "bioskop-online"
+  },
+  {
+    "id": 423,
+    "technical_name": "blockbuster",
+    "short_name": "bck",
+    "clear_name": "Blockbuster",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/200635226/{profile}",
+    "slug": "blockbuster"
+  },
+  {
+    "id": 680,
+    "technical_name": "amazonbloodymovies",
+    "short_name": "abm",
+    "clear_name": "Bloody Movies Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259198297/{profile}",
+    "slug": "bloody-movies-amazon-channel"
+  },
+  {
+    "id": 1707,
+    "technical_name": "amazonblutv",
+    "short_name": "bta",
+    "clear_name": "BluTV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495389/{profile}",
+    "slug": "blutv-amazon-channel"
+  },
+  {
+    "id": 248,
+    "technical_name": "boomerang",
+    "short_name": "bmg",
+    "clear_name": "Boomerang",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/120144009/{profile}",
+    "slug": "boomerang"
+  },
+  {
+    "id": 288,
+    "technical_name": "amazonboomerang",
+    "short_name": "abo",
+    "clear_name": "Boomerang Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732465/{profile}",
+    "slug": "boomerang-amazon-channel"
+  },
+  {
+    "id": 54,
+    "technical_name": "boxoffice",
+    "short_name": "bof",
+    "clear_name": "BoxOffice",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/802191/{profile}",
+    "slug": "boxoffice"
+  },
+  {
+    "id": 365,
+    "technical_name": "bravotv",
+    "short_name": "brv",
+    "clear_name": "Bravo TV",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/164156069/{profile}",
+    "slug": "bravo-tv"
+  },
+  {
+    "id": 151,
+    "technical_name": "britbox",
+    "short_name": "bbo",
+    "clear_name": "BritBox",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/257378431/{profile}",
+    "slug": "britbox"
+  },
+  {
+    "id": 380,
+    "technical_name": "britboxuk",
+    "short_name": "bbk",
+    "clear_name": "BritBox",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/175038692/{profile}",
+    "slug": "britbox"
+  },
+  {
+    "id": 197,
+    "technical_name": "amazonbritbox",
+    "short_name": "abb",
+    "clear_name": "BritBox Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732477/{profile}",
+    "slug": "britbox-amazon-channel"
+  },
+  {
+    "id": 1852,
+    "technical_name": "appletvbritbox",
+    "short_name": "bba",
+    "clear_name": "Britbox Apple TV Channel ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303391365/{profile}",
+    "slug": "britbox-apple-tv-channel"
+  },
+  {
+    "id": 571,
+    "technical_name": "britishpathe",
+    "short_name": "bph",
+    "clear_name": "British Pathé TV",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/244591964/{profile}",
+    "slug": "british-pathe-tv"
+  },
+  {
+    "id": 554,
+    "technical_name": "broadwayhd",
+    "short_name": "bhd",
+    "clear_name": "BroadwayHD",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243239329/{profile}",
+    "slug": "broadwayhd"
+  },
+  {
+    "id": 1887,
+    "technical_name": "amazonbrutxfr",
+    "short_name": "abx",
+    "clear_name": "BrutX Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304871950/{profile}",
+    "slug": "brutx-amazon-channel"
+  },
+  {
+    "id": 77,
+    "technical_name": "cmore",
+    "short_name": "cmr",
+    "clear_name": "C More",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/914019/{profile}",
+    "slug": "c-more"
+  },
+  {
+    "id": 314,
+    "technical_name": "cbcgem",
+    "short_name": "cbc",
+    "clear_name": "CBC Gem",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/140132304/{profile}",
+    "slug": "cbc-gem"
+  },
+  {
+    "id": 78,
+    "technical_name": "cbs",
+    "short_name": "cbs",
+    "clear_name": "CBS",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/920372/{profile}",
+    "slug": "cbs"
+  },
+  {
+    "id": 1727,
+    "technical_name": "amazoncgent",
+    "short_name": "cga",
+    "clear_name": "CG Collection Amazon channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292990600/{profile}",
+    "slug": "cg-collection-amazon-channel"
+  },
+  {
+    "id": 491,
+    "technical_name": "cine",
+    "short_name": "cin",
+    "clear_name": "CINE",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/208861591/{profile}",
+    "slug": "cine"
+  },
+  {
+    "id": 543,
+    "technical_name": "contar",
+    "short_name": "cta",
+    "clear_name": "CONTAR",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243087257/{profile}",
+    "slug": "contar"
+  },
+  {
+    "id": 428,
+    "technical_name": "contv",
+    "short_name": "con",
+    "clear_name": "CONtv",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/200839941/{profile}",
+    "slug": "contv"
+  },
+  {
+    "id": 326,
+    "technical_name": "ctv",
+    "short_name": "ctc",
+    "clear_name": "CTV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/142828658/{profile}",
+    "slug": "ctv"
+  },
+  {
+    "id": 206,
+    "technical_name": "cwseed",
+    "short_name": "cws",
+    "clear_name": "CW Seed",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/76259709/{profile}",
+    "slug": "cw-seed"
+  },
+  {
+    "id": 1926,
+    "technical_name": "canal11",
+    "short_name": "c11",
+    "clear_name": "Canal 11",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/306386684/{profile}",
+    "slug": "canal-11"
+  },
+  {
+    "id": 58,
+    "technical_name": "canalplayvod",
+    "short_name": "cpv",
+    "clear_name": "Canal VOD",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/107895447/{profile}",
+    "slug": "canal-vod"
+  },
+  {
+    "id": 381,
+    "technical_name": "canalplus",
+    "short_name": "cpd",
+    "clear_name": "Canal+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/176922513/{profile}",
+    "slug": "canal-plus"
+  },
+  {
+    "id": 1719,
+    "technical_name": "canalplussport",
+    "short_name": "cas",
+    "clear_name": "Canal+ Sport",
+    "monetization_types": null,
+    "icon_url": "/icon/156794180/{profile}",
+    "slug": "canal-sport"
+  },
+  {
+    "id": 317,
+    "technical_name": "cartoonnetwork",
+    "short_name": "ctw",
+    "clear_name": "Cartoon Network",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/141257713/{profile}",
+    "slug": "cartoon-network"
+  },
+  {
+    "id": 159,
+    "technical_name": "catchplay",
+    "short_name": "ctp",
+    "clear_name": "Catchplay",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "free"
+    ],
+    "icon_url": "/icon/6919820/{profile}",
+    "slug": "catchplay"
+  },
+  {
+    "id": 438,
+    "technical_name": "chaiflicks",
+    "short_name": "chf",
+    "clear_name": "Chai Flicks",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/201708663/{profile}",
+    "slug": "chai-flicks"
+  },
+  {
+    "id": 103,
+    "technical_name": "all4",
+    "short_name": "al4",
+    "clear_name": "Channel 4",
+    "monetization_types": [
+      "ads",
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/306402519/{profile}",
+    "slug": "channel-4"
+  },
+  {
+    "id": 40,
+    "technical_name": "chili",
+    "short_name": "chi",
+    "clear_name": "Chili",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/301026480/{profile}",
+    "slug": "chili"
+  },
+  {
+    "id": 1730,
+    "technical_name": "amazoncinecomico",
+    "short_name": "cca",
+    "clear_name": "Cine Comico Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292990640/{profile}",
+    "slug": "cine-comico-amazon-channel"
+  },
+  {
+    "id": 1894,
+    "technical_name": "amazoncineautore",
+    "short_name": "acx",
+    "clear_name": "CineAutore Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304873570/{profile}",
+    "slug": "cineautore-amazon-channel"
+  },
+  {
+    "id": 639,
+    "technical_name": "cinemember",
+    "short_name": "cim",
+    "clear_name": "CineMember",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/255430086/{profile}",
+    "slug": "cinemember"
+  },
+  {
+    "id": 496,
+    "technical_name": "cineasterna",
+    "short_name": "cnt",
+    "clear_name": "Cineasterna",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/208866846/{profile}",
+    "slug": "cineasterna"
+  },
+  {
+    "id": 679,
+    "technical_name": "amazoncinehearts",
+    "short_name": "ach",
+    "clear_name": "Cinema of Hearts Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/258861195/{profile}",
+    "slug": "cinema-of-hearts-amazon-channel"
+  },
+  {
+    "id": 324,
+    "technical_name": "cinemasalademande",
+    "short_name": "cad",
+    "clear_name": "Cinemas a la Demande",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/142829638/{profile}",
+    "slug": "cinemas-a-la-demande"
+  },
+  {
+    "id": 289,
+    "technical_name": "amazoncinemax",
+    "short_name": "acn",
+    "clear_name": "Cinemax Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732600/{profile}",
+    "slug": "cinemax-amazon-channel"
+  },
+  {
+    "id": 140,
+    "technical_name": "cineplex",
+    "short_name": "cpx",
+    "clear_name": "Cineplex",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/301770104/{profile}",
+    "slug": "cineplex"
+  },
+  {
+    "id": 167,
+    "technical_name": "clarovideo",
+    "short_name": "clv",
+    "clear_name": "Claro video",
+    "monetization_types": [
+      "buy",
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/9899714/{profile}",
+    "slug": "claro-video"
+  },
+  {
+    "id": 445,
+    "technical_name": "classixapp",
+    "short_name": "cla",
+    "clear_name": "Classix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202068388/{profile}",
+    "slug": "classix"
+  },
+  {
+    "id": 469,
+    "technical_name": "clubillico",
+    "short_name": "cic",
+    "clear_name": "Club Illico",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/258219092/{profile}",
+    "slug": "club-illico"
+  },
+  {
+    "id": 1811,
+    "technical_name": "amazoncohen",
+    "short_name": "ace",
+    "clear_name": "Cohen Media Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301605243/{profile}",
+    "slug": "cohen-media-amazon-channel"
+  },
+  {
+    "id": 243,
+    "technical_name": "comedycentral",
+    "short_name": "com",
+    "clear_name": "Comedy Central",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/112642053/{profile}",
+    "slug": "comedy-central"
+  },
+  {
+    "id": 1706,
+    "technical_name": "amazoncomedycentral",
+    "short_name": "acc",
+    "clear_name": "Comedy Central Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495722/{profile}",
+    "slug": "comedy-central-plus-amazon-channel"
+  },
+  {
+    "id": 400,
+    "technical_name": "cookingchanneltv",
+    "short_name": "coo",
+    "clear_name": "Cooking Channel",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433892/{profile}",
+    "slug": "cooking-channel"
+  },
+  {
+    "id": 1881,
+    "technical_name": "coupangplay",
+    "short_name": "cou",
+    "clear_name": "Coupang Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712363/{profile}",
+    "slug": "coupang-play"
+  },
+  {
+    "id": 1763,
+    "technical_name": "courtside1891",
+    "short_name": "csd",
+    "clear_name": "Courtside 1891",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300661698/{profile}",
+    "slug": "courtside-1891"
+  },
+  {
+    "id": 12,
+    "technical_name": "crackle",
+    "short_name": "crk",
+    "clear_name": "Crackle",
+    "monetization_types": [
+      "flatrate",
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/176921838/{profile}",
+    "slug": "crackle"
+  },
+  {
+    "id": 230,
+    "technical_name": "crave",
+    "short_name": "crv",
+    "clear_name": "Crave",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/92692011/{profile}",
+    "slug": "crave"
+  },
+  {
+    "id": 305,
+    "technical_name": "cravestarz",
+    "short_name": "crs",
+    "clear_name": "Crave Starz",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/135207354/{profile}",
+    "slug": "crave-starz"
+  },
+  {
+    "id": 1893,
+    "technical_name": "amazoncrimeinvestigation",
+    "short_name": "aci",
+    "clear_name": "Crime+ Investigation Play Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304873312/{profile}",
+    "slug": "crime-investigation-play-amazon-channel"
+  },
+  {
+    "id": 258,
+    "technical_name": "criterionchannel",
+    "short_name": "crc",
+    "clear_name": "Criterion Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124249135/{profile}",
+    "slug": "criterion-channel"
+  },
+  {
+    "id": 283,
+    "technical_name": "crunchyroll",
+    "short_name": "cru",
+    "clear_name": "Crunchyroll",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/127445869/{profile}",
+    "slug": "crunchyroll"
+  },
+  {
+    "id": 692,
+    "technical_name": "cultpix",
+    "short_name": "ctx",
+    "clear_name": "Cultpix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/264459628/{profile}",
+    "slug": "cultpix"
+  },
+  {
+    "id": 190,
+    "technical_name": "curiositystream",
+    "short_name": "cts",
+    "clear_name": "Curiosity Stream",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/48600036/{profile}",
+    "slug": "curiosity-stream"
+  },
+  {
+    "id": 603,
+    "technical_name": "amazoncuriositystreamstandard",
+    "short_name": "acs",
+    "clear_name": "CuriosityStream Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248040459/{profile}",
+    "slug": "curiositystream-amazon-channel"
+  },
+  {
+    "id": 1745,
+    "technical_name": "amazoncurzon",
+    "short_name": "cac",
+    "clear_name": "Curzon Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292999360/{profile}",
+    "slug": "curzon-amazon-channel"
+  },
+  {
+    "id": 189,
+    "technical_name": "curzonhomecinema",
+    "short_name": "chc",
+    "clear_name": "Curzon Home Cinema",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/301536333/{profile}",
+    "slug": "curzon-home-cinema"
+  },
+  {
+    "id": 1905,
+    "technical_name": "dsmartgo",
+    "short_name": "dsg",
+    "clear_name": "D-Smart Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304980822/{profile}",
+    "slug": "d-smart-go"
+  },
+  {
+    "id": 695,
+    "technical_name": "dazn",
+    "short_name": "dzn",
+    "clear_name": "DAZN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/284767886/{profile}",
+    "slug": "dazn"
+  },
+  {
+    "id": 1837,
+    "technical_name": "amazondazn",
+    "short_name": "dza",
+    "clear_name": "DAZN Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302502612/{profile}",
+    "slug": "dazn-amazon-channel"
+  },
+  {
+    "id": 358,
+    "technical_name": "directv",
+    "short_name": "drv",
+    "clear_name": "DIRECTV",
+    "monetization_types": [
+      "rent",
+      "flatrate",
+      "buy"
+    ],
+    "icon_url": "/icon/158260222/{profile}",
+    "slug": "directv"
+  },
+  {
+    "id": 467,
+    "technical_name": "directvgo",
+    "short_name": "dtg",
+    "clear_name": "DIRECTV GO",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/207966895/{profile}",
+    "slug": "directv-go"
+  },
+  {
+    "id": 405,
+    "technical_name": "diynetwork",
+    "short_name": "diy",
+    "clear_name": "DIY Network",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433903/{profile}",
+    "slug": "diy-network"
+  },
+  {
+    "id": 475,
+    "technical_name": "docsville",
+    "short_name": "dsv",
+    "clear_name": "DOCSVILLE",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208148387/{profile}",
+    "slug": "docsville"
+  },
+  {
+    "id": 620,
+    "technical_name": "drdk",
+    "short_name": "drt",
+    "clear_name": "DRTV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/251185834/{profile}",
+    "slug": "drtv"
+  },
+  {
+    "id": 621,
+    "technical_name": "danskfilmskat",
+    "short_name": "dfk",
+    "clear_name": "Dansk Filmskat",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/251189071/{profile}",
+    "slug": "dansk-filmskat"
+  },
+  {
+    "id": 355,
+    "technical_name": "darkmatter",
+    "short_name": "dkm",
+    "clear_name": "Darkmatter TV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/155553229/{profile}",
+    "slug": "darkmatter-tv"
+  },
+  {
+    "id": 101,
+    "technical_name": "daum",
+    "short_name": "dam",
+    "clear_name": "Daum",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/2655283/{profile}",
+    "slug": "daum"
+  },
+  {
+    "id": 444,
+    "technical_name": "dekkoo",
+    "short_name": "dkk",
+    "clear_name": "Dekkoo",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202068207/{profile}",
+    "slug": "dekkoo"
+  },
+  {
+    "id": 402,
+    "technical_name": "destinationamerica",
+    "short_name": "dea",
+    "clear_name": "Destination America",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433897/{profile}",
+    "slug": "destination-america"
+  },
+  {
+    "id": 403,
+    "technical_name": "discoverygo",
+    "short_name": "dis",
+    "clear_name": "Discovery",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198441211/{profile}",
+    "slug": "discovery"
+  },
+  {
+    "id": 1708,
+    "technical_name": "amazondiscoverychannel",
+    "short_name": "dca",
+    "clear_name": "Discovery Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495747/{profile}",
+    "slug": "discovery-amazon-channel"
+  },
+  {
+    "id": 404,
+    "technical_name": "discoverylife",
+    "short_name": "dil",
+    "clear_name": "Discovery Life",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433900/{profile}",
+    "slug": "discovery-life"
+  },
+  {
+    "id": 524,
+    "technical_name": "discoverypluseurope",
+    "short_name": "dpe",
+    "clear_name": "Discovery Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241126382/{profile}",
+    "slug": "discovery-plus"
+  },
+  {
+    "id": 510,
+    "technical_name": "discoveryplus",
+    "short_name": "dsp",
+    "clear_name": "Discovery Plus",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/240558410/{profile}",
+    "slug": "discovery-plus"
+  },
+  {
+    "id": 584,
+    "technical_name": "amazondiscoveryplus",
+    "short_name": "adp",
+    "clear_name": "Discovery Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246478706/{profile}",
+    "slug": "discovery-plus-amazon-channel"
+  },
+  {
+    "id": 1835,
+    "technical_name": "amazondiscoveryplussport",
+    "short_name": "aps",
+    "clear_name": "Discovery Plus Sport Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302467526/{profile}",
+    "slug": "discovery-plus-sport-amazon-channel"
+  },
+  {
+    "id": 337,
+    "technical_name": "disneyplus",
+    "short_name": "dnp",
+    "clear_name": "Disney Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/147638351/{profile}",
+    "slug": "disney-plus"
+  },
+  {
+    "id": 508,
+    "technical_name": "disneynow",
+    "short_name": "dnw",
+    "clear_name": "DisneyNOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209565063/{profile}",
+    "slug": "disneynow"
+  },
+  {
+    "id": 1741,
+    "technical_name": "amazondizi",
+    "short_name": "dac",
+    "clear_name": "Dizi Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993873/{profile}",
+    "slug": "dizi-amazon-channel"
+  },
+  {
+    "id": 569,
+    "technical_name": "dafilms",
+    "short_name": "daf",
+    "clear_name": "DocAlliance Films",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244290074/{profile}",
+    "slug": "docalliance-films"
+  },
+  {
+    "id": 357,
+    "technical_name": "docplay",
+    "short_name": "doc",
+    "clear_name": "DocPlay",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/156421688/{profile}",
+    "slug": "docplay"
+  },
+  {
+    "id": 604,
+    "technical_name": "amazondocubay",
+    "short_name": "ado",
+    "clear_name": "DocuBay Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248040844/{profile}",
+    "slug": "docubay-amazon-channel"
+  },
+  {
+    "id": 536,
+    "technical_name": "dogwoof",
+    "short_name": "dog",
+    "clear_name": "Dogwoof On Demand",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/242710905/{profile}",
+    "slug": "dogwoof-on-demand"
+  },
+  {
+    "id": 254,
+    "technical_name": "dovechannel",
+    "short_name": "dvc",
+    "clear_name": "Dove Channel",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/123316731/{profile}",
+    "slug": "dove-channel"
+  },
+  {
+    "id": 435,
+    "technical_name": "drakenfilms",
+    "short_name": "drf",
+    "clear_name": "Draken Films",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/201699458/{profile}",
+    "slug": "draken-films"
+  },
+  {
+    "id": 263,
+    "technical_name": "amazondreamworkstv",
+    "short_name": "adw",
+    "clear_name": "DreamWorksTV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732608/{profile}",
+    "slug": "dreamworkstv-amazon-channel"
+  },
+  {
+    "id": 1828,
+    "technical_name": "elevensports",
+    "short_name": "ele",
+    "clear_name": "ELEVEN ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302124258/{profile}",
+    "slug": "eleven"
+  },
+  {
+    "id": 476,
+    "technical_name": "epicon",
+    "short_name": "epc",
+    "clear_name": "EPIC ON",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/208171262/{profile}",
+    "slug": "epic-on"
+  },
+  {
+    "id": 1718,
+    "technical_name": "espn",
+    "short_name": "esp",
+    "clear_name": "ESPN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/287952425/{profile}",
+    "slug": "espn"
+  },
+  {
+    "id": 1765,
+    "technical_name": "espn2",
+    "short_name": "es2",
+    "clear_name": "ESPN 2",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300699474/{profile}",
+    "slug": "espn-2"
+  },
+  {
+    "id": 1766,
+    "technical_name": "espn3",
+    "short_name": "es3",
+    "clear_name": "ESPN 3",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300699472/{profile}",
+    "slug": "espn-3"
+  },
+  {
+    "id": 1821,
+    "technical_name": "espn4",
+    "short_name": "es4",
+    "clear_name": "ESPN 4",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301772974/{profile}",
+    "slug": "espn-4"
+  },
+  {
+    "id": 1767,
+    "technical_name": "espndeportes",
+    "short_name": "esd",
+    "clear_name": "ESPN Deportes",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300699469/{profile}",
+    "slug": "espn-deportes"
+  },
+  {
+    "id": 1798,
+    "technical_name": "espnplayer",
+    "short_name": "epl",
+    "clear_name": "ESPN Player",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301463346/{profile}",
+    "slug": "espn-player"
+  },
+  {
+    "id": 1768,
+    "technical_name": "espnplus",
+    "short_name": "epp",
+    "clear_name": "ESPN Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300699465/{profile}",
+    "slug": "espn-plus"
+  },
+  {
+    "id": 628,
+    "technical_name": "edisonline",
+    "short_name": "edo",
+    "clear_name": "Edisonline",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252210238/{profile}",
+    "slug": "edisonline"
+  },
+  {
+    "id": 540,
+    "technical_name": "elisaviihde",
+    "short_name": "elv",
+    "clear_name": "Elisa Viihde",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/243086901/{profile}",
+    "slug": "elisa-viihde"
+  },
+  {
+    "id": 218,
+    "technical_name": "erosnow",
+    "short_name": "ern",
+    "clear_name": "Eros Now",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/247912837/{profile}",
+    "slug": "eros-now"
+  },
+  {
+    "id": 595,
+    "technical_name": "amazonerosnow",
+    "short_name": "aen",
+    "clear_name": "Eros Now Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/247989096/{profile}",
+    "slug": "eros-now-amazon-channel"
+  },
+  {
+    "id": 1705,
+    "technical_name": "eurosport",
+    "short_name": "eus",
+    "clear_name": "Eurosport",
+    "monetization_types": null,
+    "icon_url": "/icon/305487688/{profile}",
+    "slug": "eurosport"
+  },
+  {
+    "id": 677,
+    "technical_name": "eventive",
+    "short_name": "eve",
+    "clear_name": "Eventive",
+    "monetization_types": [
+      "rent",
+      "free"
+    ],
+    "icon_url": "/icon/258768419/{profile}",
+    "slug": "eventive"
+  },
+  {
+    "id": 1791,
+    "technical_name": "exxen",
+    "short_name": "exn",
+    "clear_name": "Exxen",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301272467/{profile}",
+    "slug": "exxen"
+  },
+  {
+    "id": 1720,
+    "technical_name": "f1tv",
+    "short_name": "f1t",
+    "clear_name": "F1TV Pro",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303972156/{profile}",
+    "slug": "f1tv-pro"
+  },
+  {
+    "id": 1814,
+    "technical_name": "ffftv",
+    "short_name": "fff",
+    "clear_name": "FFF tv",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301667161/{profile}",
+    "slug": "fff-tv"
+  },
+  {
+    "id": 1934,
+    "technical_name": "fifaplus",
+    "short_name": "fif",
+    "clear_name": "FIFA+",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/306585562/{profile}",
+    "slug": "fifa-plus"
+  },
+  {
+    "id": 138,
+    "technical_name": "filmotv",
+    "short_name": "flt",
+    "clear_name": "FILMO",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/259364847/{profile}",
+    "slug": "filmo"
+  },
+  {
+    "id": 471,
+    "technical_name": "filmrise",
+    "short_name": "flr",
+    "clear_name": "FILMRISE",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/207967415/{profile}",
+    "slug": "filmrise"
+  },
+  {
+    "id": 1848,
+    "technical_name": "foxsoccerplus",
+    "short_name": "fxp",
+    "clear_name": "FOX Soccer Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302869814/{profile}",
+    "slug": "fox-soccer-plus"
+  },
+  {
+    "id": 123,
+    "technical_name": "fxnow",
+    "short_name": "fxn",
+    "clear_name": "FXNow",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/4259277/{profile}",
+    "slug": "fxnow"
+  },
+  {
+    "id": 348,
+    "technical_name": "fxnowcanada",
+    "short_name": "fxc",
+    "clear_name": "FXNow Canada",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/152779709/{profile}",
+    "slug": "fxnow-canada"
+  },
+  {
+    "id": 1917,
+    "technical_name": "fancode",
+    "short_name": "fco",
+    "clear_name": "FanCode",
+    "monetization_types": [
+      "buy",
+      "flatrate_and_buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/305776092/{profile}",
+    "slug": "fancode"
+  },
+  {
+    "id": 60,
+    "technical_name": "fandango",
+    "short_name": "fad",
+    "clear_name": "Fandango",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/811323/{profile}",
+    "slug": "fandango"
+  },
+  {
+    "id": 25,
+    "technical_name": "fandor",
+    "short_name": "fnd",
+    "clear_name": "Fandor",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/554608/{profile}",
+    "slug": "fandor"
+  },
+  {
+    "id": 199,
+    "technical_name": "amazonfandor",
+    "short_name": "afa",
+    "clear_name": "Fandor Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732565/{profile}",
+    "slug": "fandor-amazon-channel"
+  },
+  {
+    "id": 436,
+    "technical_name": "fetchtv",
+    "short_name": "fet",
+    "clear_name": "Fetch TV",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/201704042/{profile}",
+    "slug": "fetch-tv"
+  },
+  {
+    "id": 579,
+    "technical_name": "filmmovementplus",
+    "short_name": "fmp",
+    "clear_name": "Film Movement Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244703360/{profile}",
+    "slug": "film-movement-plus"
+  },
+  {
+    "id": 681,
+    "technical_name": "amazonfilmtotal",
+    "short_name": "aft",
+    "clear_name": "Film Total Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259251204/{profile}",
+    "slug": "film-total-amazon-channel"
+  },
+  {
+    "id": 396,
+    "technical_name": "film1nl",
+    "short_name": "fm1",
+    "clear_name": "Film1",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/198266104/{profile}",
+    "slug": "film1"
+  },
+  {
+    "id": 602,
+    "technical_name": "amazonfilmbox",
+    "short_name": "afb",
+    "clear_name": "FilmBox Live Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248033724/{profile}",
+    "slug": "filmbox-live-amazon-channel"
+  },
+  {
+    "id": 701,
+    "technical_name": "filmbox",
+    "short_name": "flb",
+    "clear_name": "FilmBox+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/269959825/{profile}",
+    "slug": "filmbox-plus"
+  },
+  {
+    "id": 566,
+    "technical_name": "filmefilme",
+    "short_name": "ffe",
+    "clear_name": "Filme Filme",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/244289810/{profile}",
+    "slug": "filme-filme"
+  },
+  {
+    "id": 63,
+    "technical_name": "filmin",
+    "short_name": "fil",
+    "clear_name": "Filmin",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/187161245/{profile}",
+    "slug": "filmin"
+  },
+  {
+    "id": 66,
+    "technical_name": "filminlatino",
+    "short_name": "fll",
+    "clear_name": "Filmin Latino",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/816701/{profile}",
+    "slug": "filmin-latino"
+  },
+  {
+    "id": 64,
+    "technical_name": "filminplus",
+    "short_name": "fip",
+    "clear_name": "Filmin Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/188383996/{profile}",
+    "slug": "filmin-plus"
+  },
+  {
+    "id": 678,
+    "technical_name": "amazonfilmlegenden",
+    "short_name": "afg",
+    "clear_name": "Filmlegenden Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/258861113/{profile}",
+    "slug": "filmlegenden-amazon-channel"
+  },
+  {
+    "id": 1734,
+    "technical_name": "amazonfilmotv",
+    "short_name": "fla",
+    "clear_name": "Filmo Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993620/{profile}",
+    "slug": "filmo-amazon-channel"
+  },
+  {
+    "id": 560,
+    "technical_name": "filmoteket",
+    "short_name": "fmt",
+    "clear_name": "Filmoteket",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/251078938/{profile}",
+    "slug": "filmoteket"
+  },
+  {
+    "id": 1861,
+    "technical_name": "filmow",
+    "short_name": "fow",
+    "clear_name": "Filmow",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/304059603/{profile}",
+    "slug": "filmow"
+  },
+  {
+    "id": 443,
+    "technical_name": "filmstriben",
+    "short_name": "fsb",
+    "clear_name": "Filmstriben",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202047958/{profile}",
+    "slug": "filmstriben"
+  },
+  {
+    "id": 480,
+    "technical_name": "filmtastic",
+    "short_name": "ftc",
+    "clear_name": "Filmtastic",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209710278/{profile}",
+    "slug": "filmtastic"
+  },
+  {
+    "id": 334,
+    "technical_name": "amazonfilmtastic",
+    "short_name": "fac",
+    "clear_name": "Filmtastic Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732478/{profile}",
+    "slug": "filmtastic-amazon-channel"
+  },
+  {
+    "id": 1929,
+    "technical_name": "canalplusfilmtastic",
+    "short_name": "fsc",
+    "clear_name": "Filmtastic bei Canal+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/306521650/{profile}",
+    "slug": "filmtastic-bei-canal-plus"
+  },
+  {
+    "id": 559,
+    "technical_name": "filmzie",
+    "short_name": "fmz",
+    "clear_name": "Filmzie",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/269433194/{profile}",
+    "slug": "filmzie"
+  },
+  {
+    "id": 142,
+    "technical_name": "flimmit",
+    "short_name": "fli",
+    "clear_name": "Flimmit",
+    "monetization_types": [
+      "rent",
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/5561882/{profile}",
+    "slug": "flimmit"
+  },
+  {
+    "id": 432,
+    "technical_name": "flixpremiere",
+    "short_name": "fpm",
+    "clear_name": "Flix Premiere",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/201076273/{profile}",
+    "slug": "flix-premiere"
+  },
+  {
+    "id": 331,
+    "technical_name": "flixfling",
+    "short_name": "fxf",
+    "clear_name": "FlixFling",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/147271109/{profile}",
+    "slug": "flixfling"
+  },
+  {
+    "id": 393,
+    "technical_name": "flixole",
+    "short_name": "flx",
+    "clear_name": "FlixOlé",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/273964237/{profile}",
+    "slug": "flixole"
+  },
+  {
+    "id": 684,
+    "technical_name": "amazonflixole",
+    "short_name": "afl",
+    "clear_name": "FlixOlé Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259252096/{profile}",
+    "slug": "flixole-amazon-channel"
+  },
+  {
+    "id": 1824,
+    "technical_name": "florugby",
+    "short_name": "flo",
+    "clear_name": "Flo Rugby",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301862515/{profile}",
+    "slug": "flo-rugby"
+  },
+  {
+    "id": 366,
+    "technical_name": "foodnetwork",
+    "short_name": "fnw",
+    "clear_name": "Food Network",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/165029433/{profile}",
+    "slug": "food-network"
+  },
+  {
+    "id": 328,
+    "technical_name": "foxusa",
+    "short_name": "fus",
+    "clear_name": "Fox",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/144006145/{profile}",
+    "slug": "fox"
+  },
+  {
+    "id": 1799,
+    "technical_name": "foxsports",
+    "short_name": "fsp",
+    "clear_name": "Fox Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301540374/{profile}",
+    "slug": "fox-sports"
+  },
+  {
+    "id": 1776,
+    "technical_name": "foxsports1",
+    "short_name": "fs1",
+    "clear_name": "Fox Sports 1",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303799735/{profile}",
+    "slug": "fox-sports-1"
+  },
+  {
+    "id": 1921,
+    "technical_name": "foxsports2",
+    "short_name": "fs2",
+    "clear_name": "Fox Sports 2",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305877499/{profile}",
+    "slug": "fox-sports-2"
+  },
+  {
+    "id": 134,
+    "technical_name": "foxtelplay",
+    "short_name": "ftp",
+    "clear_name": "Foxtel Now",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304552876/{profile}",
+    "slug": "foxtel-now"
+  },
+  {
+    "id": 236,
+    "technical_name": "francetv",
+    "short_name": "ftv",
+    "clear_name": "France TV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/306569019/{profile}",
+    "slug": "france-tv"
+  },
+  {
+    "id": 590,
+    "technical_name": "free",
+    "short_name": "fre",
+    "clear_name": "Free - All",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/246939335/{profile}",
+    "slug": "free-all"
+  },
+  {
+    "id": 211,
+    "technical_name": "freeform",
+    "short_name": "ffm",
+    "clear_name": "Freeform",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/79299282/{profile}",
+    "slug": "freeform"
+  },
+  {
+    "id": 613,
+    "technical_name": "amazonimdbtv",
+    "short_name": "aim",
+    "clear_name": "Freevee",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/302949424/{profile}",
+    "slug": "freevee"
+  },
+  {
+    "id": 1729,
+    "technical_name": "amazonduel",
+    "short_name": "faa",
+    "clear_name": "Full Action Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292990634/{profile}",
+    "slug": "full-action-amazon-channel"
+  },
+  {
+    "id": 597,
+    "technical_name": "amazonfullmoon",
+    "short_name": "afm",
+    "clear_name": "Full Moon Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248032677/{profile}",
+    "slug": "full-moon-amazon-channel"
+  },
+  {
+    "id": 269,
+    "technical_name": "funimationnow",
+    "short_name": "fmn",
+    "clear_name": "Funimation Now",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/133139893/{profile}",
+    "slug": "funimation-now"
+  },
+  {
+    "id": 477,
+    "technical_name": "gospelplay",
+    "short_name": "gos",
+    "clear_name": "GOSPEL PLAY",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208171655/{profile}",
+    "slug": "gospel-play"
+  },
+  {
+    "id": 1709,
+    "technical_name": "amazongrjngo",
+    "short_name": "gja",
+    "clear_name": "GRJNGO Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495770/{profile}",
+    "slug": "grjngo-amazon-channel"
+  },
+  {
+    "id": 1802,
+    "technical_name": "gameflowtv",
+    "short_name": "gfl",
+    "clear_name": "Gameflow TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301567647/{profile}",
+    "slug": "gameflow-tv"
+  },
+  {
+    "id": 449,
+    "technical_name": "globaltv",
+    "short_name": "gtv",
+    "clear_name": "Global TV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/202330165/{profile}",
+    "slug": "global-tv"
+  },
+  {
+    "id": 307,
+    "technical_name": "globoplay",
+    "short_name": "gop",
+    "clear_name": "Globoplay",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/270278212/{profile}",
+    "slug": "globoplay"
+  },
+  {
+    "id": 373,
+    "technical_name": "go3",
+    "short_name": "gth",
+    "clear_name": "Go3",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/167804998/{profile}",
+    "slug": "go3"
+  },
+  {
+    "id": 1803,
+    "technical_name": "golmundial",
+    "short_name": "gol",
+    "clear_name": "Gol Mundial",
+    "monetization_types": null,
+    "icon_url": "/icon/301587078/{profile}",
+    "slug": "gol-mundial"
+  },
+  {
+    "id": 3,
+    "technical_name": "play",
+    "short_name": "ply",
+    "clear_name": "Google Play Movies",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/169478387/{profile}",
+    "slug": "google-play-movies"
+  },
+  {
+    "id": 100,
+    "technical_name": "guidedoc",
+    "short_name": "gdc",
+    "clear_name": "GuideDoc",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/2625277/{profile}",
+    "slug": "guidedoc"
+  },
+  {
+    "id": 425,
+    "technical_name": "hbogoasia",
+    "short_name": "hba",
+    "clear_name": "HBO Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/200839148/{profile}",
+    "slug": "hbo-go"
+  },
+  {
+    "id": 384,
+    "technical_name": "hbomax",
+    "short_name": "hbm",
+    "clear_name": "HBO Max",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/285237061/{profile}",
+    "slug": "hbo-max"
+  },
+  {
+    "id": 616,
+    "technical_name": "hbomaxfree",
+    "short_name": "hmf",
+    "clear_name": "HBO Max Free",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/249359407/{profile}",
+    "slug": "hbo-max-free"
+  },
+  {
+    "id": 406,
+    "technical_name": "hgtv",
+    "short_name": "hgt",
+    "clear_name": "HGTV",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433905/{profile}",
+    "slug": "hgtv"
+  },
+  {
+    "id": 631,
+    "technical_name": "hrti",
+    "short_name": "hrt",
+    "clear_name": "HRTi",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252388724/{profile}",
+    "slug": "hrti"
+  },
+  {
+    "id": 281,
+    "technical_name": "hallmarkmovies",
+    "short_name": "hmm",
+    "clear_name": "Hallmark Movies",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/127435091/{profile}",
+    "slug": "hallmark-movies"
+  },
+  {
+    "id": 290,
+    "technical_name": "amazonhallmarkmoviesnow",
+    "short_name": "ahm",
+    "clear_name": "Hallmark Movies Now Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732526/{profile}",
+    "slug": "hallmark-movies-now-amazon-channel"
+  },
+  {
+    "id": 1746,
+    "technical_name": "amazonhallmark",
+    "short_name": "hma",
+    "clear_name": "Hallmark TV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292999370/{profile}",
+    "slug": "hallmark-tv-amazon-channel"
+  },
+  {
+    "id": 223,
+    "technical_name": "hayu",
+    "short_name": "hay",
+    "clear_name": "Hayu",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301318462/{profile}",
+    "slug": "hayu"
+  },
+  {
+    "id": 296,
+    "technical_name": "amazonhayu",
+    "short_name": "ahy",
+    "clear_name": "Hayu Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732559/{profile}",
+    "slug": "hayu-amazon-channel"
+  },
+  {
+    "id": 1906,
+    "technical_name": "amazonhelbiz",
+    "short_name": "ahz",
+    "clear_name": "Helbiz Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305045195/{profile}",
+    "slug": "helbiz-amazon-channel"
+  },
+  {
+    "id": 1907,
+    "technical_name": "helbizlive",
+    "short_name": "hlb",
+    "clear_name": "Helbiz Live",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305045434/{profile}",
+    "slug": "helbiz-live"
+  },
+  {
+    "id": 417,
+    "technical_name": "heretv",
+    "short_name": "hrv",
+    "clear_name": "Here TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/199216642/{profile}",
+    "slug": "here-tv"
+  },
+  {
+    "id": 503,
+    "technical_name": "hiyah",
+    "short_name": "hyh",
+    "clear_name": "Hi-YAH",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/209563206/{profile}",
+    "slug": "hi-yah"
+  },
+  {
+    "id": 430,
+    "technical_name": "hidive",
+    "short_name": "hdv",
+    "clear_name": "HiDive",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/254161830/{profile}",
+    "slug": "hidive"
+  },
+  {
+    "id": 1743,
+    "technical_name": "amazonhistoria",
+    "short_name": "haa",
+    "clear_name": "Historia y Actualidad Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292999313/{profile}",
+    "slug": "historia-y-actualidad-amazon-channel"
+  },
+  {
+    "id": 155,
+    "technical_name": "history",
+    "short_name": "his",
+    "clear_name": "History",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/6675367/{profile}",
+    "slug": "history"
+  },
+  {
+    "id": 478,
+    "technical_name": "historyplay",
+    "short_name": "hpl",
+    "clear_name": "History Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208172686/{profile}",
+    "slug": "history-play"
+  },
+  {
+    "id": 268,
+    "technical_name": "historyvault",
+    "short_name": "hvt",
+    "clear_name": "History Vault",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124941612/{profile}",
+    "slug": "history-vault"
+  },
+  {
+    "id": 1710,
+    "technical_name": "amazonhistory",
+    "short_name": "hpa",
+    "clear_name": "HistoryPlay Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495794/{profile}",
+    "slug": "historyplay-amazon-channel"
+  },
+  {
+    "id": 315,
+    "technical_name": "hoichoi",
+    "short_name": "hoc",
+    "clear_name": "Hoichoi",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/141253805/{profile}",
+    "slug": "hoichoi"
+  },
+  {
+    "id": 182,
+    "technical_name": "hollywoodsuite",
+    "short_name": "hws",
+    "clear_name": "Hollywood Suite",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/240029384/{profile}",
+    "slug": "hollywood-suite"
+  },
+  {
+    "id": 705,
+    "technical_name": "amazonhollywoodsuite",
+    "short_name": "hsa",
+    "clear_name": "Hollywood Suite Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/278652050/{profile}",
+    "slug": "hollywood-suite-amazon-channel"
+  },
+  {
+    "id": 479,
+    "technical_name": "homeofhorror",
+    "short_name": "hoh",
+    "clear_name": "Home of Horror",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209710239/{profile}",
+    "slug": "home-of-horror"
+  },
+  {
+    "id": 686,
+    "technical_name": "amazonhomeofhorror",
+    "short_name": "ahh",
+    "clear_name": "Home of Horror Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259303763/{profile}",
+    "slug": "home-of-horror-amazon-channel"
+  },
+  {
+    "id": 212,
+    "technical_name": "hoopla",
+    "short_name": "hop",
+    "clear_name": "Hoopla",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/80212823/{profile}",
+    "slug": "hoopla"
+  },
+  {
+    "id": 1890,
+    "technical_name": "amazonhopster",
+    "short_name": "ahs",
+    "clear_name": "Hopster Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304872094/{profile}",
+    "slug": "hopster-amazon-channel"
+  },
+  {
+    "id": 267,
+    "technical_name": "hopster",
+    "short_name": "htv",
+    "clear_name": "Hopster TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124941576/{profile}",
+    "slug": "hopster-tv"
+  },
+  {
+    "id": 250,
+    "technical_name": "horizon",
+    "short_name": "hrz",
+    "clear_name": "Horizon",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/121147207/{profile}",
+    "slug": "horizon"
+  },
+  {
+    "id": 122,
+    "technical_name": "hotstar",
+    "short_name": "hst",
+    "clear_name": "Hotstar",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/240029443/{profile}",
+    "slug": "hotstar"
+  },
+  {
+    "id": 15,
+    "technical_name": "hulu",
+    "short_name": "hlu",
+    "clear_name": "Hulu",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/116305230/{profile}",
+    "slug": "hulu"
+  },
+  {
+    "id": 437,
+    "technical_name": "hungamaplay",
+    "short_name": "hgp",
+    "clear_name": "Hungama Play",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/201704934/{profile}",
+    "slug": "hungama-play"
+  },
+  {
+    "id": 1919,
+    "technical_name": "icctv",
+    "short_name": "icc",
+    "clear_name": "ICC.tv",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/305823861/{profile}",
+    "slug": "icc-tv"
+  },
+  {
+    "id": 587,
+    "technical_name": "amazonifcunlimited",
+    "short_name": "acu",
+    "clear_name": "IFC Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246682769/{profile}",
+    "slug": "ifc-amazon-channel"
+  },
+  {
+    "id": 548,
+    "technical_name": "iffrunleashed",
+    "short_name": "ifr",
+    "clear_name": "IFFR Unleashed",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/243230718/{profile}",
+    "slug": "iffr-unleashed"
+  },
+  {
+    "id": 1737,
+    "technical_name": "amazonmadelen",
+    "short_name": "ina",
+    "clear_name": "INA  madelen Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993685/{profile}",
+    "slug": "ina-madelen-amazon-channel"
+  },
+  {
+    "id": 549,
+    "technical_name": "iplatv",
+    "short_name": "ipl",
+    "clear_name": "IPLA",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/243231876/{profile}",
+    "slug": "ipla"
+  },
+  {
+    "id": 704,
+    "technical_name": "irokotv",
+    "short_name": "irk",
+    "clear_name": "IROKOTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/273903329/{profile}",
+    "slug": "irokotv"
+  },
+  {
+    "id": 598,
+    "technical_name": "amazonitvplus",
+    "short_name": "ait",
+    "clear_name": "ITV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302164531/{profile}",
+    "slug": "itv-amazon-channel"
+  },
+  {
+    "id": 41,
+    "technical_name": "itv",
+    "short_name": "itv",
+    "clear_name": "ITVX",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302120301/{profile}",
+    "slug": "itvx"
+  },
+  {
+    "id": 1744,
+    "technical_name": "amazoniconfilm",
+    "short_name": "ifa",
+    "clear_name": "Icon Film Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292999351/{profile}",
+    "slug": "icon-film-amazon-channel"
+  },
+  {
+    "id": 368,
+    "technical_name": "indieflix",
+    "short_name": "ind",
+    "clear_name": "IndieFlix",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/165029440/{profile}",
+    "slug": "indieflix"
+  },
+  {
+    "id": 1726,
+    "technical_name": "amazoninfinity",
+    "short_name": "isa",
+    "clear_name": "Infinity Selection Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292990286/{profile}",
+    "slug": "infinity-selection-amazon-channel"
+  },
+  {
+    "id": 110,
+    "technical_name": "infinity",
+    "short_name": "inf",
+    "clear_name": "Infinity+",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/302588247/{profile}",
+    "slug": "infinity-plus"
+  },
+  {
+    "id": 1735,
+    "technical_name": "amazoninsomnia",
+    "short_name": "ima",
+    "clear_name": "Insomnia Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993648/{profile}",
+    "slug": "insomnia-amazon-channel"
+  },
+  {
+    "id": 408,
+    "technical_name": "investigationdiscovery",
+    "short_name": "inv",
+    "clear_name": "Investigation Discovery",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/198433912/{profile}",
+    "slug": "investigation-discovery"
+  },
+  {
+    "id": 113,
+    "technical_name": "iviru",
+    "short_name": "ivr",
+    "clear_name": "Ivi",
+    "monetization_types": [
+      "rent",
+      "buy",
+      "free"
+    ],
+    "icon_url": "/icon/3656257/{profile}",
+    "slug": "ivi"
+  },
+  {
+    "id": 220,
+    "technical_name": "jiocinema",
+    "short_name": "jio",
+    "clear_name": "Jio Cinema",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/85114140/{profile}",
+    "slug": "jio-cinema"
+  },
+  {
+    "id": 304,
+    "technical_name": "joynde",
+    "short_name": "jyn",
+    "clear_name": "Joyn",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/305460189/{profile}",
+    "slug": "joyn"
+  },
+  {
+    "id": 421,
+    "technical_name": "joyndeplus",
+    "short_name": "jpl",
+    "clear_name": "Joyn Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/199382334/{profile}",
+    "slug": "joyn-plus"
+  },
+  {
+    "id": 1936,
+    "technical_name": "koreanbroadcastingsystem",
+    "short_name": "kbs",
+    "clear_name": "KBS",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/306598677/{profile}",
+    "slug": "kbs"
+  },
+  {
+    "id": 624,
+    "technical_name": "kktv",
+    "short_name": "kkt",
+    "clear_name": "KKTV",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/251753992/{profile}",
+    "slug": "kktv"
+  },
+  {
+    "id": 563,
+    "technical_name": "kpn",
+    "short_name": "kpn",
+    "clear_name": "KPN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243526629/{profile}",
+    "slug": "kpn"
+  },
+  {
+    "id": 191,
+    "technical_name": "kanopy",
+    "short_name": "knp",
+    "clear_name": "Kanopy",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/241588643/{profile}",
+    "slug": "kanopy"
+  },
+  {
+    "id": 640,
+    "technical_name": "kinonow",
+    "short_name": "knw",
+    "clear_name": "Kino Now",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/255472309/{profile}",
+    "slug": "kino-now"
+  },
+  {
+    "id": 349,
+    "technical_name": "kinoondemand",
+    "short_name": "kod",
+    "clear_name": "Kino on Demand",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/152891767/{profile}",
+    "slug": "kino-on-demand"
+  },
+  {
+    "id": 573,
+    "technical_name": "kinopop",
+    "short_name": "kip",
+    "clear_name": "KinoPop",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244592005/{profile}",
+    "slug": "kinopop"
+  },
+  {
+    "id": 1927,
+    "technical_name": "kinobox",
+    "short_name": "kbx",
+    "clear_name": "Kinobox",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/306398795/{profile}",
+    "slug": "kinobox"
+  },
+  {
+    "id": 117,
+    "technical_name": "kinopoisk",
+    "short_name": "kpk",
+    "clear_name": "Kinopoisk",
+    "monetization_types": [
+      "flatrate",
+      "buy"
+    ],
+    "icon_url": "/icon/263534436/{profile}",
+    "slug": "kinopoisk"
+  },
+  {
+    "id": 463,
+    "technical_name": "kirjastokino",
+    "short_name": "kir",
+    "clear_name": "Kirjastokino",
+    "monetization_types": [
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/207331701/{profile}",
+    "slug": "kirjastokino"
+  },
+  {
+    "id": 1793,
+    "technical_name": "klassiki",
+    "short_name": "kls",
+    "clear_name": "Klassiki",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301297790/{profile}",
+    "slug": "klassiki"
+  },
+  {
+    "id": 576,
+    "technical_name": "klikfilm",
+    "short_name": "klk",
+    "clear_name": "Klik Film",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244592395/{profile}",
+    "slug": "klik-film"
+  },
+  {
+    "id": 525,
+    "technical_name": "knowledgenetwork",
+    "short_name": "knn",
+    "clear_name": "Knowledge Network",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/241370745/{profile}",
+    "slug": "knowledge-network"
+  },
+  {
+    "id": 464,
+    "technical_name": "kocowa",
+    "short_name": "koc",
+    "clear_name": "Kocowa",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304992331/{profile}",
+    "slug": "kocowa"
+  },
+  {
+    "id": 575,
+    "technical_name": "ondemandkorea",
+    "short_name": "kor",
+    "clear_name": "KoreaOnDemand",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/244592296/{profile}",
+    "slug": "koreaondemand"
+  },
+  {
+    "id": 1772,
+    "technical_name": "lequipe",
+    "short_name": "leq",
+    "clear_name": "L Equipe",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300770443/{profile}",
+    "slug": "l-equipe"
+  },
+  {
+    "id": 625,
+    "technical_name": "linetv",
+    "short_name": "lin",
+    "clear_name": "LINE TV",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/251754446/{profile}",
+    "slug": "line-tv"
+  },
+  {
+    "id": 310,
+    "technical_name": "lacinetek",
+    "short_name": "lct",
+    "clear_name": "LaCinetek",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/137921834/{profile}",
+    "slug": "lacinetek"
+  },
+  {
+    "id": 1840,
+    "technical_name": "lasestrellas",
+    "short_name": "les",
+    "clear_name": "Las Estrellas",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302584214/{profile}",
+    "slug": "las-estrellas"
+  },
+  {
+    "id": 275,
+    "technical_name": "laughoutloud",
+    "short_name": "lol",
+    "clear_name": "Laugh Out Loud",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/127412694/{profile}",
+    "slug": "laugh-out-loud"
+  },
+  {
+    "id": 544,
+    "technical_name": "libreflix",
+    "short_name": "lfl",
+    "clear_name": "Libreflix",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/243087398/{profile}",
+    "slug": "libreflix"
+  },
+  {
+    "id": 157,
+    "technical_name": "lifetime",
+    "short_name": "lft",
+    "clear_name": "Lifetime",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/6675988/{profile}",
+    "slug": "lifetime"
+  },
+  {
+    "id": 284,
+    "technical_name": "lifetimemovieclub",
+    "short_name": "lmc",
+    "clear_name": "Lifetime Movie Club",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/127573922/{profile}",
+    "slug": "lifetime-movie-club"
+  },
+  {
+    "id": 1865,
+    "technical_name": "amazonligue1",
+    "short_name": "lam",
+    "clear_name": "Ligue 1 Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304224052/{profile}",
+    "slug": "ligue-1-amazon-channel"
+  },
+  {
+    "id": 561,
+    "technical_name": "lionsgateplay",
+    "short_name": "lgp",
+    "clear_name": "Lionsgate Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243489840/{profile}",
+    "slug": "lionsgate-play"
+  },
+  {
+    "id": 1790,
+    "technical_name": "lionsgateplus",
+    "short_name": "lgu",
+    "clear_name": "Lionsgate Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301254350/{profile}",
+    "slug": "lionsgate-plus"
+  },
+  {
+    "id": 420,
+    "technical_name": "logotv",
+    "short_name": "ltv",
+    "clear_name": "Logo TV",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/199382333/{profile}",
+    "slug": "logo-tv"
+  },
+  {
+    "id": 47,
+    "technical_name": "looke",
+    "short_name": "lke",
+    "clear_name": "Looke",
+    "monetization_types": [
+      "rent",
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/755940/{profile}",
+    "slug": "looke"
+  },
+  {
+    "id": 683,
+    "technical_name": "amazonlooke",
+    "short_name": "alo",
+    "clear_name": "Looke Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259251955/{profile}",
+    "slug": "looke-amazon-channel"
+  },
+  {
+    "id": 608,
+    "technical_name": "amazonlovenature",
+    "short_name": "aln",
+    "clear_name": "Love Nature Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045090/{profile}",
+    "slug": "love-nature-amazon-channel"
+  },
+  {
+    "id": 1788,
+    "technical_name": "amazonloveandpassion",
+    "short_name": "lap",
+    "clear_name": "Love and Passion Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301120369/{profile}",
+    "slug": "love-and-passion-amazon-channel"
+  },
+  {
+    "id": 1834,
+    "technical_name": "marcaclaro",
+    "short_name": "mcl",
+    "clear_name": "MARCA Claro",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302425369/{profile}",
+    "slug": "marca-claro"
+  },
+  {
+    "id": 483,
+    "technical_name": "maxstream",
+    "short_name": "mxs",
+    "clear_name": "MAX Stream",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/208853029/{profile}",
+    "slug": "max-stream"
+  },
+  {
+    "id": 1938,
+    "technical_name": "mbckorea",
+    "short_name": "mbc",
+    "clear_name": "MBC",
+    "monetization_types": [
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/306611855/{profile}",
+    "slug": "mbc"
+  },
+  {
+    "id": 588,
+    "technical_name": "amazonmgm",
+    "short_name": "amg",
+    "clear_name": "MGM Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246682790/{profile}",
+    "slug": "mgm-amazon-channel"
+  },
+  {
+    "id": 34,
+    "technical_name": "epix",
+    "short_name": "epx",
+    "clear_name": "MGM Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302467394/{profile}",
+    "slug": "mgm-plus"
+  },
+  {
+    "id": 583,
+    "technical_name": "amazonepix",
+    "short_name": "aep",
+    "clear_name": "MGM Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302467404/{profile}",
+    "slug": "mgm-plus-amazon-channel"
+  },
+  {
+    "id": 636,
+    "technical_name": "rokuchannelepix",
+    "short_name": "erk",
+    "clear_name": "MGM Plus Roku Premium Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302467432/{profile}",
+    "slug": "mgm-plus-roku-premium-channel"
+  },
+  {
+    "id": 1897,
+    "technical_name": "amazonmidnight",
+    "short_name": "amf",
+    "clear_name": "MIDNIGHT FACTORY Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304873669/{profile}",
+    "slug": "midnight-factory-amazon-channel"
+  },
+  {
+    "id": 1877,
+    "technical_name": "mlbnetwork",
+    "short_name": "mln",
+    "clear_name": "MLB Network",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304571526/{profile}",
+    "slug": "mlb-network"
+  },
+  {
+    "id": 1769,
+    "technical_name": "mlbtv",
+    "short_name": "mlb",
+    "clear_name": "MLB TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300677816/{profile}",
+    "slug": "mlb-tv"
+  },
+  {
+    "id": 1867,
+    "technical_name": "amazonmlbtv",
+    "short_name": "apb",
+    "clear_name": "MLB.TV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304359795/{profile}",
+    "slug": "mlb-tv-amazon-channel"
+  },
+  {
+    "id": 1851,
+    "technical_name": "mlsseasonpass",
+    "short_name": "mls",
+    "clear_name": "MLS Season Pass",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303372959/{profile}",
+    "slug": "mls-season-pass"
+  },
+  {
+    "id": 1830,
+    "technical_name": "molatv",
+    "short_name": "mol",
+    "clear_name": "MOLA TV",
+    "monetization_types": null,
+    "icon_url": "/icon/302176989/{profile}",
+    "slug": "mola-tv"
+  },
+  {
+    "id": 453,
+    "technical_name": "mtv",
+    "short_name": "mtv",
+    "clear_name": "MTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202918396/{profile}",
+    "slug": "mtv"
+  },
+  {
+    "id": 1711,
+    "technical_name": "amazonmtvplus",
+    "short_name": "mta",
+    "clear_name": "MTV Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495798/{profile}",
+    "slug": "mtv-plus-amazon-channel"
+  },
+  {
+    "id": 11,
+    "technical_name": "mubi",
+    "short_name": "mbi",
+    "clear_name": "MUBI",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/164970114/{profile}",
+    "slug": "mubi"
+  },
+  {
+    "id": 201,
+    "technical_name": "amazonmubi",
+    "short_name": "amu",
+    "clear_name": "MUBI Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732473/{profile}",
+    "slug": "mubi-amazon-channel"
+  },
+  {
+    "id": 515,
+    "technical_name": "mxplayer",
+    "short_name": "mxp",
+    "clear_name": "MX Player",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/210188316/{profile}",
+    "slug": "mx-player"
+  },
+  {
+    "id": 291,
+    "technical_name": "amazonmzchoice",
+    "short_name": "ame",
+    "clear_name": "MZ Choice Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732594/{profile}",
+    "slug": "mz-choice-amazon-channel"
+  },
+  {
+    "id": 551,
+    "technical_name": "magellantv",
+    "short_name": "mgl",
+    "clear_name": "Magellan TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243233518/{profile}",
+    "slug": "magellan-tv"
+  },
+  {
+    "id": 1856,
+    "technical_name": "magentatv",
+    "short_name": "mgt",
+    "clear_name": "Magenta TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303473533/{profile}",
+    "slug": "magenta-tv"
+  },
+  {
+    "id": 178,
+    "technical_name": "entertaintv",
+    "short_name": "etv",
+    "clear_name": "MagentaTV",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/133004475/{profile}",
+    "slug": "magentatv"
+  },
+  {
+    "id": 259,
+    "technical_name": "magnoliaselects",
+    "short_name": "mns",
+    "clear_name": "Magnolia Selects",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124651823/{profile}",
+    "slug": "magnolia-selects"
+  },
+  {
+    "id": 482,
+    "technical_name": "manoramamax",
+    "short_name": "mrx",
+    "clear_name": "ManoramaMax",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208852613/{profile}",
+    "slug": "manoramamax"
+  },
+  {
+    "id": 568,
+    "technical_name": "marthastewart",
+    "short_name": "mst",
+    "clear_name": "Martha Stewart TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244290040/{profile}",
+    "slug": "martha-stewart-tv"
+  },
+  {
+    "id": 1899,
+    "technical_name": "max",
+    "short_name": "mxx",
+    "clear_name": "Max",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305458112/{profile}",
+    "slug": "max"
+  },
+  {
+    "id": 1825,
+    "technical_name": "amazonhbomax",
+    "short_name": "aho",
+    "clear_name": "Max Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305591736/{profile}",
+    "slug": "max-amazon-channel"
+  },
+  {
+    "id": 6,
+    "technical_name": "maxdome",
+    "short_name": "max",
+    "clear_name": "Maxdome",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/430988/{profile}",
+    "slug": "maxdome"
+  },
+  {
+    "id": 359,
+    "technical_name": "mediasetplay",
+    "short_name": "msp",
+    "clear_name": "Mediaset Infinity",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302588254/{profile}",
+    "slug": "mediaset-infinity"
+  },
+  {
+    "id": 98,
+    "technical_name": "megabox",
+    "short_name": "mbx",
+    "clear_name": "Megabox",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/2539917/{profile}",
+    "slug": "megabox"
+  },
+  {
+    "id": 242,
+    "technical_name": "meo",
+    "short_name": "meo",
+    "clear_name": "Meo",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/110692537/{profile}",
+    "slug": "meo"
+  },
+  {
+    "id": 585,
+    "technical_name": "metrograph",
+    "short_name": "mtg",
+    "clear_name": "Metrograph",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246602107/{profile}",
+    "slug": "metrograph"
+  },
+  {
+    "id": 427,
+    "technical_name": "mhzchoice",
+    "short_name": "mhz",
+    "clear_name": "Mhz Choice",
+    "monetization_types": [
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/200839772/{profile}",
+    "slug": "mhz-choice"
+  },
+  {
+    "id": 68,
+    "technical_name": "microsoft",
+    "short_name": "msf",
+    "clear_name": "Microsoft Store",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/820542/{profile}",
+    "slug": "microsoft-store"
+  },
+  {
+    "id": 456,
+    "technical_name": "mitele",
+    "short_name": "mte",
+    "clear_name": "Mitele ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202925890/{profile}",
+    "slug": "mitele"
+  },
+  {
+    "id": 557,
+    "technical_name": "moretv",
+    "short_name": "mre",
+    "clear_name": "More TV",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/243248859/{profile}",
+    "slug": "more-tv"
+  },
+  {
+    "id": 1844,
+    "technical_name": "morethansportstv",
+    "short_name": "mtt",
+    "clear_name": "More Than Sports TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302650159/{profile}",
+    "slug": "more-than-sports-tv"
+  },
+  {
+    "id": 410,
+    "technical_name": "motortrend",
+    "short_name": "mtr",
+    "clear_name": "Motor Trend",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/198433920/{profile}",
+    "slug": "motor-trend"
+  },
+  {
+    "id": 601,
+    "technical_name": "amazonmotortrend",
+    "short_name": "azt",
+    "clear_name": "MotorTrend Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248032984/{profile}",
+    "slug": "motortrend-amazon-channel"
+  },
+  {
+    "id": 562,
+    "technical_name": "moviesaints",
+    "short_name": "mvt",
+    "clear_name": "MovieSaints",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/243526257/{profile}",
+    "slug": "moviesaints"
+  },
+  {
+    "id": 706,
+    "technical_name": "amazonmoviedome",
+    "short_name": "mdp",
+    "clear_name": "Moviedome Plus Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/278652479/{profile}",
+    "slug": "moviedome-plus-amazon-channel"
+  },
+  {
+    "id": 81,
+    "technical_name": "movietickets",
+    "short_name": "mts",
+    "clear_name": "Movietickets",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/922529/{profile}",
+    "slug": "movietickets"
+  },
+  {
+    "id": 339,
+    "technical_name": "movistarplay",
+    "short_name": "mvp",
+    "clear_name": "Movistar Play",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/148114378/{profile}",
+    "slug": "movistar-play"
+  },
+  {
+    "id": 149,
+    "technical_name": "movistar",
+    "short_name": "mvs",
+    "clear_name": "Movistar Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304905973/{profile}",
+    "slug": "movistar-plus"
+  },
+  {
+    "id": 333,
+    "technical_name": "my5",
+    "short_name": "myf",
+    "clear_name": "My5",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/146470618/{profile}",
+    "slug": "my5"
+  },
+  {
+    "id": 264,
+    "technical_name": "myoutdoortv",
+    "short_name": "mot",
+    "clear_name": "MyOutdoorTV",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/124832728/{profile}",
+    "slug": "myoutdoortv"
+  },
+  {
+    "id": 1761,
+    "technical_name": "nbaleaguepass",
+    "short_name": "nlp",
+    "clear_name": "NBA League Pass",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300503743/{profile}",
+    "slug": "nba-league-pass"
+  },
+  {
+    "id": 1869,
+    "technical_name": "amazonnbalp",
+    "short_name": "anb",
+    "clear_name": "NBA League Pass Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304359817/{profile}",
+    "slug": "nba-league-pass-amazon-channel"
+  },
+  {
+    "id": 1880,
+    "technical_name": "nbarakuten",
+    "short_name": "nbr",
+    "clear_name": "NBA Rakuten",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712280/{profile}",
+    "slug": "nba-rakuten"
+  },
+  {
+    "id": 1868,
+    "technical_name": "amazonnbatv",
+    "short_name": "ant",
+    "clear_name": "NBA TV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304359814/{profile}",
+    "slug": "nba-tv-amazon-channel"
+  },
+  {
+    "id": 79,
+    "technical_name": "nbc",
+    "short_name": "nbc",
+    "clear_name": "NBC",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/922526/{profile}",
+    "slug": "nbc"
+  },
+  {
+    "id": 441,
+    "technical_name": "nfb",
+    "short_name": "nfb",
+    "clear_name": "NFB",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/202043776/{profile}",
+    "slug": "nfb"
+  },
+  {
+    "id": 1762,
+    "technical_name": "nflgamepass",
+    "short_name": "ngp",
+    "clear_name": "NFL Game Pass",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300617757/{profile}",
+    "slug": "nfl-game-pass"
+  },
+  {
+    "id": 1760,
+    "technical_name": "nflplus",
+    "short_name": "nfl",
+    "clear_name": "NFL Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300447459/{profile}",
+    "slug": "nfl-plus"
+  },
+  {
+    "id": 1786,
+    "technical_name": "nhlnetwork",
+    "short_name": "nhn",
+    "clear_name": "NHL Network",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301040435/{profile}",
+    "slug": "nhl-network"
+  },
+  {
+    "id": 1843,
+    "technical_name": "nhltv",
+    "short_name": "nhl",
+    "clear_name": "NHL TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302623129/{profile}",
+    "slug": "nhl-tv"
+  },
+  {
+    "id": 472,
+    "technical_name": "nlziet",
+    "short_name": "nlz",
+    "clear_name": "NLZIET",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208142146/{profile}",
+    "slug": "nlziet"
+  },
+  {
+    "id": 1937,
+    "technical_name": "nosnl",
+    "short_name": "nos",
+    "clear_name": "NOS",
+    "monetization_types": [
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/306602027/{profile}",
+    "slug": "nos"
+  },
+  {
+    "id": 484,
+    "technical_name": "nowonline",
+    "short_name": "now",
+    "clear_name": "NOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208853791/{profile}",
+    "slug": "now"
+  },
+  {
+    "id": 1808,
+    "technical_name": "npo1",
+    "short_name": "np1",
+    "clear_name": "NPO 1",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301598199/{profile}",
+    "slug": "npo-1"
+  },
+  {
+    "id": 1817,
+    "technical_name": "npo2",
+    "short_name": "np2",
+    "clear_name": "NPO 2",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301724828/{profile}",
+    "slug": "npo-2"
+  },
+  {
+    "id": 360,
+    "technical_name": "npostart",
+    "short_name": "npo",
+    "clear_name": "NPO Start",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/158405505/{profile}",
+    "slug": "npo-start"
+  },
+  {
+    "id": 1818,
+    "technical_name": "npozapp",
+    "short_name": "npz",
+    "clear_name": "NPO Zapp",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301724929/{profile}",
+    "slug": "npo-zapp"
+  },
+  {
+    "id": 442,
+    "technical_name": "nrk",
+    "short_name": "nrk",
+    "clear_name": "NRK TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/202044312/{profile}",
+    "slug": "nrk-tv"
+  },
+  {
+    "id": 1915,
+    "technical_name": "nwslsoccercom",
+    "short_name": "nws",
+    "clear_name": "NWSL",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/305712691/{profile}",
+    "slug": "nwsl"
+  },
+  {
+    "id": 96,
+    "technical_name": "naverstore",
+    "short_name": "nvs",
+    "clear_name": "Naver Store",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/2538289/{profile}",
+    "slug": "naver-store"
+  },
+  {
+    "id": 273,
+    "technical_name": "neontvnz",
+    "short_name": "nev",
+    "clear_name": "Neon TV",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/306398296/{profile}",
+    "slug": "neon-tv"
+  },
+  {
+    "id": 19,
+    "technical_name": "netmovies",
+    "short_name": "ntm",
+    "clear_name": "NetMovies",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/446738/{profile}",
+    "slug": "netmovies"
+  },
+  {
+    "id": 8,
+    "technical_name": "netflix",
+    "short_name": "nfx",
+    "clear_name": "Netflix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/207360008/{profile}",
+    "slug": "netflix"
+  },
+  {
+    "id": 175,
+    "technical_name": "netflixkids",
+    "short_name": "nfk",
+    "clear_name": "Netflix Kids",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/14385750/{profile}",
+    "slug": "netflix-kids"
+  },
+  {
+    "id": 1796,
+    "technical_name": "netflixbasicwithads",
+    "short_name": "nfa",
+    "clear_name": "Netflix basic with Ads",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301462744/{profile}",
+    "slug": "netflix-basic-with-ads"
+  },
+  {
+    "id": 28,
+    "technical_name": "netzkino",
+    "short_name": "ntz",
+    "clear_name": "Netzkino",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/614491/{profile}",
+    "slug": "netzkino"
+  },
+  {
+    "id": 641,
+    "technical_name": "nexoplus",
+    "short_name": "nxp",
+    "clear_name": "Nexo Plus",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/255978198/{profile}",
+    "slug": "nexo-plus"
+  },
+  {
+    "id": 455,
+    "technical_name": "nightflightplus",
+    "short_name": "nfp",
+    "clear_name": "Night Flight Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202924365/{profile}",
+    "slug": "night-flight-plus"
+  },
+  {
+    "id": 262,
+    "technical_name": "amazonnoggin",
+    "short_name": "ang",
+    "clear_name": "Noggin Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732611/{profile}",
+    "slug": "noggin-amazon-channel"
+  },
+  {
+    "id": 516,
+    "technical_name": "noovo",
+    "short_name": "nvo",
+    "clear_name": "Noovo",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/210188320/{profile}",
+    "slug": "noovo"
+  },
+  {
+    "id": 580,
+    "technical_name": "novaplay",
+    "short_name": "nvp",
+    "clear_name": "Nova Play",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/245175642/{profile}",
+    "slug": "nova-play"
+  },
+  {
+    "id": 39,
+    "technical_name": "nowtv",
+    "short_name": "ntv",
+    "clear_name": "Now TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243753092/{profile}",
+    "slug": "now-tv"
+  },
+  {
+    "id": 591,
+    "technical_name": "nowtvcinema",
+    "short_name": "ntc",
+    "clear_name": "Now TV Cinema",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246949331/{profile}",
+    "slug": "now-tv-cinema"
+  },
+  {
+    "id": 308,
+    "technical_name": "o2tvcz",
+    "short_name": "ott",
+    "clear_name": "O2 TV",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/136984448/{profile}",
+    "slug": "o2-tv"
+  },
+  {
+    "id": 685,
+    "technical_name": "amazonocs",
+    "short_name": "aoc",
+    "clear_name": "OCS Amazon Channel ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259257024/{profile}",
+    "slug": "ocs-amazon-channel"
+  },
+  {
+    "id": 56,
+    "technical_name": "ocsgo",
+    "short_name": "ocs",
+    "clear_name": "OCS Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/810790/{profile}",
+    "slug": "ocs-go"
+  },
+  {
+    "id": 629,
+    "technical_name": "osn",
+    "short_name": "osn",
+    "clear_name": "OSN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301451262/{profile}",
+    "slug": "osn"
+  },
+  {
+    "id": 607,
+    "technical_name": "amazonouttv",
+    "short_name": "aot",
+    "clear_name": "OUTtv Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045085/{profile}",
+    "slug": "outtv-amazon-channel"
+  },
+  {
+    "id": 433,
+    "technical_name": "ovid",
+    "short_name": "ovi",
+    "clear_name": "OVID",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/201697454/{profile}",
+    "slug": "ovid"
+  },
+  {
+    "id": 487,
+    "technical_name": "oxygen",
+    "short_name": "oxy",
+    "clear_name": "OXYGEN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208859185/{profile}",
+    "slug": "oxygen"
+  },
+  {
+    "id": 574,
+    "technical_name": "oiplay",
+    "short_name": "oip",
+    "clear_name": "Oi Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244592067/{profile}",
+    "slug": "oi-play"
+  },
+  {
+    "id": 115,
+    "technical_name": "okko",
+    "short_name": "okk",
+    "clear_name": "Okko",
+    "monetization_types": [
+      "buy",
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/3701663/{profile}",
+    "slug": "okko"
+  },
+  {
+    "id": 499,
+    "technical_name": "oldflix",
+    "short_name": "ofx",
+    "clear_name": "Oldflix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209544344/{profile}",
+    "slug": "oldflix"
+  },
+  {
+    "id": 1820,
+    "technical_name": "onefootball",
+    "short_name": "ofb",
+    "clear_name": "OneFootball",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301743701/{profile}",
+    "slug": "onefootball"
+  },
+  {
+    "id": 61,
+    "technical_name": "orange",
+    "short_name": "org",
+    "clear_name": "Orange VOD",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/812139/{profile}",
+    "slug": "orange-vod"
+  },
+  {
+    "id": 626,
+    "technical_name": "otta",
+    "short_name": "ota",
+    "clear_name": "Otta",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252209223/{profile}",
+    "slug": "otta"
+  },
+  {
+    "id": 434,
+    "technical_name": "ozflix",
+    "short_name": "ozf",
+    "clear_name": "OzFlix",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/201698827/{profile}",
+    "slug": "ozflix"
+  },
+  {
+    "id": 209,
+    "technical_name": "pbs",
+    "short_name": "pbs",
+    "clear_name": "PBS",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/78090545/{profile}",
+    "slug": "pbs"
+  },
+  {
+    "id": 293,
+    "technical_name": "amazonpbskids",
+    "short_name": "apk",
+    "clear_name": "PBS Kids Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732523/{profile}",
+    "slug": "pbs-kids-amazon-channel"
+  },
+  {
+    "id": 294,
+    "technical_name": "amazonpbsmasterpiece",
+    "short_name": "apm",
+    "clear_name": "PBS Masterpiece Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732455/{profile}",
+    "slug": "pbs-masterpiece-amazon-channel"
+  },
+  {
+    "id": 1822,
+    "technical_name": "prtv",
+    "short_name": "prt",
+    "clear_name": "PRTV",
+    "monetization_types": null,
+    "icon_url": "/icon/301797490/{profile}",
+    "slug": "prtv"
+  },
+  {
+    "id": 177,
+    "technical_name": "pantaflix",
+    "short_name": "pfx",
+    "clear_name": "Pantaflix",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/93814499/{profile}",
+    "slug": "pantaflix"
+  },
+  {
+    "id": 247,
+    "technical_name": "pantaya",
+    "short_name": "pty",
+    "clear_name": "Pantaya",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/120137063/{profile}",
+    "slug": "pantaya"
+  },
+  {
+    "id": 292,
+    "technical_name": "amazonpantaya",
+    "short_name": "apa",
+    "clear_name": "Pantaya Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732525/{profile}",
+    "slug": "pantaya-amazon-channel"
+  },
+  {
+    "id": 418,
+    "technical_name": "paramountnetwork",
+    "short_name": "pnw",
+    "clear_name": "Paramount Network",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/199216643/{profile}",
+    "slug": "paramount-network"
+  },
+  {
+    "id": 531,
+    "technical_name": "paramountplus",
+    "short_name": "pmp",
+    "clear_name": "Paramount Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/242706661/{profile}",
+    "slug": "paramount-plus"
+  },
+  {
+    "id": 1853,
+    "technical_name": "appletvparamountplus",
+    "short_name": "ppa",
+    "clear_name": "Paramount Plus Apple TV Channel ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303391391/{profile}",
+    "slug": "paramount-plus-apple-tv-channel"
+  },
+  {
+    "id": 582,
+    "technical_name": "amazonparamountplus",
+    "short_name": "app",
+    "clear_name": "Paramount+ Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246478651/{profile}",
+    "slug": "paramount-amazon-channel"
+  },
+  {
+    "id": 633,
+    "technical_name": "rokuchannelparamountplus",
+    "short_name": "prk",
+    "clear_name": "Paramount+ Roku Premium Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252888457/{profile}",
+    "slug": "paramount-roku-premium-channel"
+  },
+  {
+    "id": 1770,
+    "technical_name": "paramountplusshowtime",
+    "short_name": "pst",
+    "clear_name": "Paramount+ with Showtime",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/306096334/{profile}",
+    "slug": "paramount-with-showtime"
+  },
+  {
+    "id": 1739,
+    "technical_name": "amazonpash",
+    "short_name": "pac",
+    "clear_name": "Pash Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993716/{profile}",
+    "slug": "pash-amazon-channel"
+  },
+  {
+    "id": 1870,
+    "technical_name": "amazonwarnerpass",
+    "short_name": "pwa",
+    "clear_name": "Pass Warner Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304368456/{profile}",
+    "slug": "pass-warner-amazon-channel"
+  },
+  {
+    "id": 71,
+    "technical_name": "pathe",
+    "short_name": "pth",
+    "clear_name": "Pathé Thuis",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/899642/{profile}",
+    "slug": "pathe-thuis"
+  },
+  {
+    "id": 618,
+    "technical_name": "paus",
+    "short_name": "pau",
+    "clear_name": "Paus",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/249862604/{profile}",
+    "slug": "paus"
+  },
+  {
+    "id": 386,
+    "technical_name": "peacocktv",
+    "short_name": "pct",
+    "clear_name": "Peacock",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/194173870/{profile}",
+    "slug": "peacock"
+  },
+  {
+    "id": 387,
+    "technical_name": "peacocktvpremium",
+    "short_name": "pcp",
+    "clear_name": "Peacock Premium",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/194173871/{profile}",
+    "slug": "peacock-premium"
+  },
+  {
+    "id": 637,
+    "technical_name": "pickboxnow",
+    "short_name": "pbn",
+    "clear_name": "Pickbox NOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/253275170/{profile}",
+    "slug": "pickbox-now"
+  },
+  {
+    "id": 1873,
+    "technical_name": "pickxsports",
+    "short_name": "pix",
+    "clear_name": "Pickx Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304469328/{profile}",
+    "slug": "pickx-sports"
+  },
+  {
+    "id": 451,
+    "technical_name": "picl",
+    "short_name": "pcl",
+    "clear_name": "Picl",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/202916719/{profile}",
+    "slug": "picl"
+  },
+  {
+    "id": 1740,
+    "technical_name": "amazonplanethorror",
+    "short_name": "pha",
+    "clear_name": "Planet Horror Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993727/{profile}",
+    "slug": "planet-horror-amazon-channel"
+  },
+  {
+    "id": 1872,
+    "technical_name": "playsports",
+    "short_name": "pla",
+    "clear_name": "Play Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304469251/{profile}",
+    "slug": "play-sports"
+  },
+  {
+    "id": 691,
+    "technical_name": "playsuisse",
+    "short_name": "pys",
+    "clear_name": "Play Suisse",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/262145914/{profile}",
+    "slug": "play-suisse"
+  },
+  {
+    "id": 505,
+    "technical_name": "playerpl",
+    "short_name": "plp",
+    "clear_name": "Player",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/209564731/{profile}",
+    "slug": "player"
+  },
+  {
+    "id": 538,
+    "technical_name": "plex",
+    "short_name": "plx",
+    "clear_name": "Plex",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301832745/{profile}",
+    "slug": "plex"
+  },
+  {
+    "id": 300,
+    "technical_name": "plutotv",
+    "short_name": "ptv",
+    "clear_name": "Pluto TV",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/131862988/{profile}",
+    "slug": "pluto-tv"
+  },
+  {
+    "id": 599,
+    "technical_name": "amazonpokemon",
+    "short_name": "apo",
+    "clear_name": "Pokémon Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248032735/{profile}",
+    "slug": "pokemon-amazon-channel"
+  },
+  {
+    "id": 690,
+    "technical_name": "amazonpongalo",
+    "short_name": "apn",
+    "clear_name": "Pongalo Amazon Channel  ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/259251701/{profile}",
+    "slug": "pongalo-amazon-channel"
+  },
+  {
+    "id": 161,
+    "technical_name": "popcorn",
+    "short_name": "ppc",
+    "clear_name": "Popcorn",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/7423153/{profile}",
+    "slug": "popcorn"
+  },
+  {
+    "id": 241,
+    "technical_name": "popcornflix",
+    "short_name": "pcf",
+    "clear_name": "Popcornflix",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/109299737/{profile}",
+    "slug": "popcornflix"
+  },
+  {
+    "id": 522,
+    "technical_name": "popcorntimes",
+    "short_name": "pcs",
+    "clear_name": "Popcorntimes",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/240934542/{profile}",
+    "slug": "popcorntimes"
+  },
+  {
+    "id": 1832,
+    "technical_name": "popflick",
+    "short_name": "pfk",
+    "clear_name": "Popflick",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302244859/{profile}",
+    "slug": "popflick"
+  },
+  {
+    "id": 570,
+    "technical_name": "premier",
+    "short_name": "pre",
+    "clear_name": "Premier",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/244290140/{profile}",
+    "slug": "premier"
+  },
+  {
+    "id": 1752,
+    "technical_name": "premiersports",
+    "short_name": "psp",
+    "clear_name": "Premier Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/294000976/{profile}",
+    "slug": "premier-sports"
+  },
+  {
+    "id": 1901,
+    "technical_name": "premierebrazil",
+    "short_name": "gpr",
+    "clear_name": "Premiere",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304887325/{profile}",
+    "slug": "premiere"
+  },
+  {
+    "id": 1903,
+    "technical_name": "amazonpremierebr",
+    "short_name": "apr",
+    "clear_name": "Premiere Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304978519/{profile}",
+    "slug": "premiere-amazon-channel"
+  },
+  {
+    "id": 1928,
+    "technical_name": "iprima",
+    "short_name": "pri",
+    "clear_name": "Prima Plus",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/306460592/{profile}",
+    "slug": "prima-plus"
+  },
+  {
+    "id": 1923,
+    "technical_name": "prosiebenmaxx",
+    "short_name": "p7m",
+    "clear_name": "ProSieben MAXX",
+    "monetization_types": [
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/305973637/{profile}",
+    "slug": "prosieben-maxx"
+  },
+  {
+    "id": 638,
+    "technical_name": "publicdomainmovies",
+    "short_name": "pdm",
+    "clear_name": "Public Domain Movies",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/254580265/{profile}",
+    "slug": "public-domain-movies"
+  },
+  {
+    "id": 278,
+    "technical_name": "pureflix",
+    "short_name": "pux",
+    "clear_name": "Pure Flix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/127414508/{profile}",
+    "slug": "pure-flix"
+  },
+  {
+    "id": 552,
+    "technical_name": "qftplayer",
+    "short_name": "qft",
+    "clear_name": "QFT Player",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/243236656/{profile}",
+    "slug": "qft-player"
+  },
+  {
+    "id": 274,
+    "technical_name": "qubit",
+    "short_name": "qbt",
+    "clear_name": "QubitTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/127412478/{profile}",
+    "slug": "qubittv"
+  },
+  {
+    "id": 1784,
+    "technical_name": "rds",
+    "short_name": "rds",
+    "clear_name": "RDS",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300949936/{profile}",
+    "slug": "rds"
+  },
+  {
+    "id": 1755,
+    "technical_name": "rmcsport",
+    "short_name": "rmc",
+    "clear_name": "RMC Sport",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/295991128/{profile}",
+    "slug": "rmc-sport"
+  },
+  {
+    "id": 461,
+    "technical_name": "rtbf",
+    "short_name": "rtb",
+    "clear_name": "RTBF",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/207331495/{profile}",
+    "slug": "rtbf"
+  },
+  {
+    "id": 1892,
+    "technical_name": "amazonrtlcrime",
+    "short_name": "arc",
+    "clear_name": "RTL Crime Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304872636/{profile}",
+    "slug": "rtl-crime-amazon-channel"
+  },
+  {
+    "id": 1712,
+    "technical_name": "amazonrtlpassion",
+    "short_name": "rpa",
+    "clear_name": "RTL Passion Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495821/{profile}",
+    "slug": "rtl-passion-amazon-channel"
+  },
+  {
+    "id": 572,
+    "technical_name": "rtlplay",
+    "short_name": "rtl",
+    "clear_name": "RTL Play",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/305738083/{profile}",
+    "slug": "rtl-play"
+  },
+  {
+    "id": 298,
+    "technical_name": "tvnowde",
+    "short_name": "tvn",
+    "clear_name": "RTL+",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/254509043/{profile}",
+    "slug": "rtl-plus"
+  },
+  {
+    "id": 452,
+    "technical_name": "rtpplay",
+    "short_name": "rtp",
+    "clear_name": "RTPplay",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/202917046/{profile}",
+    "slug": "rtpplay"
+  },
+  {
+    "id": 1753,
+    "technical_name": "rainews",
+    "short_name": "rns",
+    "clear_name": "Rai News",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/294494792/{profile}",
+    "slug": "rai-news"
+  },
+  {
+    "id": 222,
+    "technical_name": "raiplay",
+    "short_name": "rai",
+    "clear_name": "Rai Play",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/87462522/{profile}",
+    "slug": "rai-play"
+  },
+  {
+    "id": 1801,
+    "technical_name": "raisport",
+    "short_name": "ras",
+    "clear_name": "Rai Sport",
+    "monetization_types": null,
+    "icon_url": "/icon/301547705/{profile}",
+    "slug": "rai-sport"
+  },
+  {
+    "id": 35,
+    "technical_name": "wuaki",
+    "short_name": "wki",
+    "clear_name": "Rakuten TV",
+    "monetization_types": [
+      "rent",
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/128599720/{profile}",
+    "slug": "rakuten-tv"
+  },
+  {
+    "id": 344,
+    "technical_name": "viki",
+    "short_name": "vik",
+    "clear_name": "Rakuten Viki",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/149297567/{profile}",
+    "slug": "rakuten-viki"
+  },
+  {
+    "id": 114,
+    "technical_name": "rambler",
+    "short_name": "rbr",
+    "clear_name": "Rambler",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/3689216/{profile}",
+    "slug": "rambler"
+  },
+  {
+    "id": 1749,
+    "technical_name": "ran",
+    "short_name": "ran",
+    "clear_name": "Ran",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/293963688/{profile}",
+    "slug": "ran"
+  },
+  {
+    "id": 1896,
+    "technical_name": "amazonrarovideo",
+    "short_name": "arv",
+    "clear_name": "Raro Video Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304873618/{profile}",
+    "slug": "raro-video-amazon-channel"
+  },
+  {
+    "id": 1757,
+    "technical_name": "amazonrealeyz",
+    "short_name": "rac",
+    "clear_name": "Realeyz Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/296216013/{profile}",
+    "slug": "realeyz-amazon-channel"
+  },
+  {
+    "id": 279,
+    "technical_name": "redbox",
+    "short_name": "rbx",
+    "clear_name": "Redbox",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/127420929/{profile}",
+    "slug": "redbox"
+  },
+  {
+    "id": 1920,
+    "technical_name": "reservaimovision",
+    "short_name": "rmv",
+    "clear_name": "Reserva Imovision",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/305874546/{profile}",
+    "slug": "reserva-imovision"
+  },
+  {
+    "id": 446,
+    "technical_name": "retrocrush",
+    "short_name": "rtc",
+    "clear_name": "Retrocrush",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202068535/{profile}",
+    "slug": "retrocrush"
+  },
+  {
+    "id": 473,
+    "technical_name": "revry",
+    "short_name": "rvy",
+    "clear_name": "Revry",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/208144706/{profile}",
+    "slug": "revry"
+  },
+  {
+    "id": 485,
+    "technical_name": "roosterteeth",
+    "short_name": "rst",
+    "clear_name": "Rooster Teeth",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/208856114/{profile}",
+    "slug": "rooster-teeth"
+  },
+  {
+    "id": 1875,
+    "technical_name": "runtime",
+    "short_name": "run",
+    "clear_name": "Runtime",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/304492456/{profile}",
+    "slug": "runtime"
+  },
+  {
+    "id": 338,
+    "technical_name": "ruutu",
+    "short_name": "rtu",
+    "clear_name": "Ruutu",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/147811992/{profile}",
+    "slug": "ruutu"
+  },
+  {
+    "id": 1792,
+    "technical_name": "ssportplus",
+    "short_name": "sss",
+    "clear_name": "S Sport Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301272582/{profile}",
+    "slug": "s-sport-plus"
+  },
+  {
+    "id": 1935,
+    "technical_name": "seoulbroadcastingsystem",
+    "short_name": "sbk",
+    "clear_name": "SBS",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/306598678/{profile}",
+    "slug": "sbs"
+  },
+  {
+    "id": 132,
+    "technical_name": "sbsondemand",
+    "short_name": "sbs",
+    "clear_name": "SBS On Demand",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/305089167/{profile}",
+    "slug": "sbs-on-demand"
+  },
+  {
+    "id": 1849,
+    "technical_name": "sbtsports",
+    "short_name": "sbr",
+    "clear_name": "SBT Sports",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302928097/{profile}",
+    "slug": "sbt-sports"
+  },
+  {
+    "id": 426,
+    "technical_name": "sfanytime",
+    "short_name": "sfa",
+    "clear_name": "SF Anytime",
+    "monetization_types": [
+      "buy"
+    ],
+    "icon_url": "/icon/200839563/{profile}",
+    "slug": "sf-anytime"
+  },
+  {
+    "id": 193,
+    "technical_name": "sfrplay",
+    "short_name": "sfr",
+    "clear_name": "SFR Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/66953481/{profile}",
+    "slug": "sfr-play"
+  },
+  {
+    "id": 1900,
+    "technical_name": "sicportugal",
+    "short_name": "sic",
+    "clear_name": "SIC",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/304883626/{profile}",
+    "slug": "sic"
+  },
+  {
+    "id": 1782,
+    "technical_name": "snnow",
+    "short_name": "snn",
+    "clear_name": "SN Now",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300921016/{profile}",
+    "slug": "sn-now"
+  },
+  {
+    "id": 1925,
+    "technical_name": "sportbildde",
+    "short_name": "spb",
+    "clear_name": "SPORTBILD",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/306191188/{profile}",
+    "slug": "sportbild"
+  },
+  {
+    "id": 1879,
+    "technical_name": "spotvnow",
+    "short_name": "spn",
+    "clear_name": "SPOTV NOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712218/{profile}",
+    "slug": "spotv-now"
+  },
+  {
+    "id": 630,
+    "technical_name": "starzplay",
+    "short_name": "sty",
+    "clear_name": "STARZPLAY",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252221523/{profile}",
+    "slug": "starzplay"
+  },
+  {
+    "id": 642,
+    "technical_name": "appletvstudiocanal",
+    "short_name": "asp",
+    "clear_name": "STUDIOCANAL PRESENTS Apple TV Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/255994043/{profile}",
+    "slug": "studiocanal-presents-apple-tv-channel"
+  },
+  {
+    "id": 593,
+    "technical_name": "stvplayer",
+    "short_name": "stp",
+    "clear_name": "STV Player",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/249895790/{profile}",
+    "slug": "stv-player"
+  },
+  {
+    "id": 493,
+    "technical_name": "svtplay",
+    "short_name": "svt",
+    "clear_name": "SVT",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/208863379/{profile}",
+    "slug": "svt"
+  },
+  {
+    "id": 1748,
+    "technical_name": "sat1",
+    "short_name": "sat",
+    "clear_name": "Sat 1",
+    "monetization_types": null,
+    "icon_url": "/icon/293754393/{profile}",
+    "slug": "sat-1"
+  },
+  {
+    "id": 411,
+    "technical_name": "sciencechannel",
+    "short_name": "sci",
+    "clear_name": "Science Channel",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433922/{profile}",
+    "slug": "science-channel"
+  },
+  {
+    "id": 185,
+    "technical_name": "screambox",
+    "short_name": "scb",
+    "clear_name": "Screambox",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/43432939/{profile}",
+    "slug": "screambox"
+  },
+  {
+    "id": 202,
+    "technical_name": "amazonscreambox",
+    "short_name": "asb",
+    "clear_name": "Screambox Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732490/{profile}",
+    "slug": "screambox-amazon-channel"
+  },
+  {
+    "id": 696,
+    "technical_name": "serially",
+    "short_name": "sly",
+    "clear_name": "Serially",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/268183647/{profile}",
+    "slug": "serially"
+  },
+  {
+    "id": 513,
+    "technical_name": "shadowz",
+    "short_name": "sdz",
+    "clear_name": "Shadowz",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209565778/{profile}",
+    "slug": "shadowz"
+  },
+  {
+    "id": 1736,
+    "technical_name": "amazonshadowz",
+    "short_name": "sza",
+    "clear_name": "Shadowz Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993659/{profile}",
+    "slug": "shadowz-amazon-channel"
+  },
+  {
+    "id": 1715,
+    "technical_name": "shahidvip",
+    "short_name": "sha",
+    "clear_name": "Shahid VIP",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280600874/{profile}",
+    "slug": "shahid-vip"
+  },
+  {
+    "id": 474,
+    "technical_name": "shemaroome",
+    "short_name": "sme",
+    "clear_name": "ShemarooMe",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/208147531/{profile}",
+    "slug": "shemaroome"
+  },
+  {
+    "id": 688,
+    "technical_name": "amazonshorts",
+    "short_name": "atv",
+    "clear_name": "ShortsTV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/260445223/{profile}",
+    "slug": "shortstv-amazon-channel"
+  },
+  {
+    "id": 600,
+    "technical_name": "amazonshoutfactory",
+    "short_name": "asf",
+    "clear_name": "Shout! Factory Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248032758/{profile}",
+    "slug": "shout-factory-amazon-channel"
+  },
+  {
+    "id": 439,
+    "technical_name": "shoutfactorytv",
+    "short_name": "sft",
+    "clear_name": "Shout! Factory TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/201913784/{profile}",
+    "slug": "shout-factory-tv"
+  },
+  {
+    "id": 55,
+    "technical_name": "showmax",
+    "short_name": "som",
+    "clear_name": "ShowMax",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/802192/{profile}",
+    "slug": "showmax"
+  },
+  {
+    "id": 37,
+    "technical_name": "showtime",
+    "short_name": "sho",
+    "clear_name": "Showtime",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/677041/{profile}",
+    "slug": "showtime"
+  },
+  {
+    "id": 203,
+    "technical_name": "amazonshowtime",
+    "short_name": "ash",
+    "clear_name": "Showtime Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732486/{profile}",
+    "slug": "showtime-amazon-channel"
+  },
+  {
+    "id": 632,
+    "technical_name": "rokuchannelshowtime",
+    "short_name": "srk",
+    "clear_name": "Showtime Roku Premium Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252888396/{profile}",
+    "slug": "showtime-roku-premium-channel"
+  },
+  {
+    "id": 99,
+    "technical_name": "shudder",
+    "short_name": "shd",
+    "clear_name": "Shudder",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/2562359/{profile}",
+    "slug": "shudder"
+  },
+  {
+    "id": 204,
+    "technical_name": "amazonshudder",
+    "short_name": "asd",
+    "clear_name": "Shudder Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732468/{profile}",
+    "slug": "shudder-amazon-channel"
+  },
+  {
+    "id": 1713,
+    "technical_name": "amazonsilverline",
+    "short_name": "sla",
+    "clear_name": "Silverline Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495827/{profile}",
+    "slug": "silverline-amazon-channel"
+  },
+  {
+    "id": 147,
+    "technical_name": "sixplay",
+    "short_name": "sxp",
+    "clear_name": "Sixplay",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/5870395/{profile}",
+    "slug": "sixplay"
+  },
+  {
+    "id": 210,
+    "technical_name": "skysvod",
+    "short_name": "ssv",
+    "clear_name": "Sky",
+    "monetization_types": [
+      "flatrate",
+      "buy"
+    ],
+    "icon_url": "/icon/79172280/{profile}",
+    "slug": "sky"
+  },
+  {
+    "id": 29,
+    "technical_name": "skygo",
+    "short_name": "skg",
+    "clear_name": "Sky Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/246622422/{profile}",
+    "slug": "sky-go"
+  },
+  {
+    "id": 703,
+    "technical_name": "skysport",
+    "short_name": "ssp",
+    "clear_name": "Sky Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302525598/{profile}",
+    "slug": "sky-sports"
+  },
+  {
+    "id": 130,
+    "technical_name": "skystore",
+    "short_name": "sks",
+    "clear_name": "Sky Store",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/208571850/{profile}",
+    "slug": "sky-store"
+  },
+  {
+    "id": 321,
+    "technical_name": "skyx",
+    "short_name": "skx",
+    "clear_name": "Sky X",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/210279875/{profile}",
+    "slug": "sky-x"
+  },
+  {
+    "id": 1773,
+    "technical_name": "skyshowtime",
+    "short_name": "sst",
+    "clear_name": "SkyShowtime",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300772362/{profile}",
+    "slug": "skyshowtime"
+  },
+  {
+    "id": 1810,
+    "technical_name": "slingtvblue",
+    "short_name": "slb",
+    "clear_name": "Sling TV Blue",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301598411/{profile}",
+    "slug": "sling-tv-blue"
+  },
+  {
+    "id": 1809,
+    "technical_name": "slingtvorange",
+    "short_name": "slo",
+    "clear_name": "Sling TV Orange",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301598411/{profile}",
+    "slug": "sling-tv-orange"
+  },
+  {
+    "id": 299,
+    "technical_name": "slingtv",
+    "short_name": "stv",
+    "clear_name": "Sling TV Orange and Blue",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302110556/{profile}",
+    "slug": "sling-tv-orange-and-blue"
+  },
+  {
+    "id": 1878,
+    "technical_name": "slingsportsextra",
+    "short_name": "sse",
+    "clear_name": "Sling TV Sports Extra",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304573486/{profile}",
+    "slug": "sling-tv-sports-extra"
+  },
+  {
+    "id": 276,
+    "technical_name": "smithsonianchannel",
+    "short_name": "ssc",
+    "clear_name": "Smithsonian Channel",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/127413290/{profile}",
+    "slug": "smithsonian-channel"
+  },
+  {
+    "id": 609,
+    "technical_name": "amazonsmithsonian",
+    "short_name": "asm",
+    "clear_name": "Smithsonian Channel Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045144/{profile}",
+    "slug": "smithsonian-channel-amazon-channel"
+  },
+  {
+    "id": 1714,
+    "technical_name": "amazonaxnsony",
+    "short_name": "sac",
+    "clear_name": "Sony AXN Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/280495864/{profile}",
+    "slug": "sony-axn-amazon-channel"
+  },
+  {
+    "id": 237,
+    "technical_name": "sonyliv",
+    "short_name": "snl",
+    "clear_name": "Sony Liv",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/207468084/{profile}",
+    "slug": "sony-liv"
+  },
+  {
+    "id": 389,
+    "technical_name": "sooner",
+    "short_name": "snr",
+    "clear_name": "Sooner",
+    "monetization_types": [
+      "buy",
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/248270771/{profile}",
+    "slug": "sooner"
+  },
+  {
+    "id": 498,
+    "technical_name": "southpark",
+    "short_name": "spk",
+    "clear_name": "South Park",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/209527714/{profile}",
+    "slug": "south-park"
+  },
+  {
+    "id": 521,
+    "technical_name": "spamflix",
+    "short_name": "sfx",
+    "clear_name": "Spamflix",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/240831409/{profile}",
+    "slug": "spamflix"
+  },
+  {
+    "id": 486,
+    "technical_name": "spectrumondemand",
+    "short_name": "sod",
+    "clear_name": "Spectrum On Demand",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305635208/{profile}",
+    "slug": "spectrum-on-demand"
+  },
+  {
+    "id": 1913,
+    "technical_name": "sportv",
+    "short_name": "spr",
+    "clear_name": "SporTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305538913/{profile}",
+    "slug": "sportv"
+  },
+  {
+    "id": 1874,
+    "technical_name": "sporttvpt",
+    "short_name": "spt",
+    "clear_name": "Sport TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304483142/{profile}",
+    "slug": "sport-tv"
+  },
+  {
+    "id": 699,
+    "technical_name": "sportone",
+    "short_name": "sp1",
+    "clear_name": "Sport1",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/268286391/{profile}",
+    "slug": "sport1"
+  },
+  {
+    "id": 1932,
+    "technical_name": "sportoneextra",
+    "short_name": "s1x",
+    "clear_name": "Sport1 Extra",
+    "monetization_types": [
+      "flatrate",
+      "buy"
+    ],
+    "icon_url": "/icon/306570971/{profile}",
+    "slug": "sport1-extra"
+  },
+  {
+    "id": 1876,
+    "technical_name": "sportoneplus",
+    "short_name": "s1p",
+    "clear_name": "Sport1+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304557340/{profile}",
+    "slug": "sport1-plus"
+  },
+  {
+    "id": 1831,
+    "technical_name": "sportall",
+    "short_name": "spo",
+    "clear_name": "Sportall",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302197723/{profile}",
+    "slug": "sportall"
+  },
+  {
+    "id": 1758,
+    "technical_name": "sportdigital",
+    "short_name": "sdg",
+    "clear_name": "Sportdigital",
+    "monetization_types": null,
+    "icon_url": "/icon/297149102/{profile}",
+    "slug": "sportdigital"
+  },
+  {
+    "id": 1842,
+    "technical_name": "sportitalia",
+    "short_name": "spi",
+    "clear_name": "Sportitalia",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302589081/{profile}",
+    "slug": "sportitalia"
+  },
+  {
+    "id": 1721,
+    "technical_name": "sportschau",
+    "short_name": "sps",
+    "clear_name": "Sportschau",
+    "monetization_types": null,
+    "icon_url": "/icon/291639665/{profile}",
+    "slug": "sportschau"
+  },
+  {
+    "id": 545,
+    "technical_name": "spuul",
+    "short_name": "spu",
+    "clear_name": "Spuul",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/243219887/{profile}",
+    "slug": "spuul"
+  },
+  {
+    "id": 606,
+    "technical_name": "amazontvfavouritesca",
+    "short_name": "ask",
+    "clear_name": "StackTV Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045076/{profile}",
+    "slug": "stacktv-amazon-channel"
+  },
+  {
+    "id": 21,
+    "technical_name": "stan",
+    "short_name": "stn",
+    "clear_name": "Stan",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/515663/{profile}",
+    "slug": "stan"
+  },
+  {
+    "id": 619,
+    "technical_name": "starplus",
+    "short_name": "srp",
+    "clear_name": "Star Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/250272035/{profile}",
+    "slug": "star-plus"
+  },
+  {
+    "id": 43,
+    "technical_name": "starz",
+    "short_name": "stz",
+    "clear_name": "Starz",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301254735/{profile}",
+    "slug": "starz"
+  },
+  {
+    "id": 1794,
+    "technical_name": "amazonstarz",
+    "short_name": "saz",
+    "clear_name": "Starz Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732487/{profile}",
+    "slug": "starz-amazon-channel"
+  },
+  {
+    "id": 1855,
+    "technical_name": "appletvstarz",
+    "short_name": "szt",
+    "clear_name": "Starz Apple TV Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303391389/{profile}",
+    "slug": "starz-apple-tv-channel"
+  },
+  {
+    "id": 194,
+    "technical_name": "amazonstarzplay",
+    "short_name": "ast",
+    "clear_name": "Starz Play Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732487/{profile}",
+    "slug": "starz-play-amazon-channel"
+  },
+  {
+    "id": 634,
+    "technical_name": "rokuchannelstarz",
+    "short_name": "sru",
+    "clear_name": "Starz Roku Premium Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/252888467/{profile}",
+    "slug": "starz-roku-premium-channel"
+  },
+  {
+    "id": 578,
+    "technical_name": "strim",
+    "short_name": "str",
+    "clear_name": "Strim",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/244594337/{profile}",
+    "slug": "strim"
+  },
+  {
+    "id": 1806,
+    "technical_name": "amazonstudiocanalpresentsallstars",
+    "short_name": "spa",
+    "clear_name": "Studiocanal Presents ALLSTARS Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301589501/{profile}",
+    "slug": "studiocanal-presents-allstars-amazon-channel"
+  },
+  {
+    "id": 1747,
+    "technical_name": "amazonstudiocanalpresents",
+    "short_name": "soa",
+    "clear_name": "Studiocanal Presents Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292999392/{profile}",
+    "slug": "studiocanal-presents-amazon-channel"
+  },
+  {
+    "id": 1805,
+    "technical_name": "amazonstudiocanalpresentsmoviecult",
+    "short_name": "spm",
+    "clear_name": "Studiocanal Presents MOVIECULT Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301589484/{profile}",
+    "slug": "studiocanal-presents-moviecult-amazon-channel"
+  },
+  {
+    "id": 309,
+    "technical_name": "sunnxt",
+    "short_name": "snx",
+    "clear_name": "Sun Nxt",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/138047862/{profile}",
+    "slug": "sun-nxt"
+  },
+  {
+    "id": 143,
+    "technical_name": "sundancenow",
+    "short_name": "sdn",
+    "clear_name": "Sundance Now",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/5676163/{profile}",
+    "slug": "sundance-now"
+  },
+  {
+    "id": 205,
+    "technical_name": "amazonsundancenow",
+    "short_name": "asn",
+    "clear_name": "Sundance Now Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732474/{profile}",
+    "slug": "sundance-now-amazon-channel"
+  },
+  {
+    "id": 605,
+    "technical_name": "amazonsuperchannel",
+    "short_name": "asu",
+    "clear_name": "Super Channel Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045074/{profile}",
+    "slug": "super-channel-amazon-channel"
+  },
+  {
+    "id": 1787,
+    "technical_name": "supertennis",
+    "short_name": "sup",
+    "clear_name": "SuperTennis",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301059651/{profile}",
+    "slug": "supertennis"
+  },
+  {
+    "id": 708,
+    "technical_name": "amazonsuperfresh",
+    "short_name": "sfc",
+    "clear_name": "Superfresh Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/278652793/{profile}",
+    "slug": "superfresh-amazon-channel"
+  },
+  {
+    "id": 215,
+    "technical_name": "syfy",
+    "short_name": "sfy",
+    "clear_name": "Syfy",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/81397159/{profile}",
+    "slug": "syfy"
+  },
+  {
+    "id": 506,
+    "technical_name": "tbs",
+    "short_name": "tus",
+    "clear_name": "TBS",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209564793/{profile}",
+    "slug": "tbs"
+  },
+  {
+    "id": 361,
+    "technical_name": "tcm",
+    "short_name": "tcm",
+    "clear_name": "TCM",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/162036726/{profile}",
+    "slug": "tcm"
+  },
+  {
+    "id": 589,
+    "technical_name": "amazonnickelodeon",
+    "short_name": "nic",
+    "clear_name": "TELETOON+ Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301566845/{profile}",
+    "slug": "teletoon-amazon-channel"
+  },
+  {
+    "id": 1754,
+    "technical_name": "tf1",
+    "short_name": "tf1",
+    "clear_name": "TF1",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/294532853/{profile}",
+    "slug": "tf1"
+  },
+  {
+    "id": 412,
+    "technical_name": "tlc",
+    "short_name": "tlc",
+    "clear_name": "TLC",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433923/{profile}",
+    "slug": "tlc"
+  },
+  {
+    "id": 363,
+    "technical_name": "tnt",
+    "short_name": "tnt",
+    "clear_name": "TNT",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/164147684/{profile}",
+    "slug": "tnt"
+  },
+  {
+    "id": 698,
+    "technical_name": "btsport",
+    "short_name": "bts",
+    "clear_name": "TNT Sports",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/306584361/{profile}",
+    "slug": "tnt-sports"
+  },
+  {
+    "id": 1839,
+    "technical_name": "tntsportsgo",
+    "short_name": "tsg",
+    "clear_name": "TNT Sports Go",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302576205/{profile}",
+    "slug": "tnt-sports-go"
+  },
+  {
+    "id": 512,
+    "technical_name": "tntgo",
+    "short_name": "tgo",
+    "clear_name": "TNTGo",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209565607/{profile}",
+    "slug": "tntgo"
+  },
+  {
+    "id": 1750,
+    "technical_name": "tod",
+    "short_name": "tod",
+    "clear_name": "TOD",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/293968021/{profile}",
+    "slug": "tod"
+  },
+  {
+    "id": 1826,
+    "technical_name": "todtv",
+    "short_name": "tdt",
+    "clear_name": "TOD TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302081369/{profile}",
+    "slug": "tod-tv"
+  },
+  {
+    "id": 1807,
+    "technical_name": "trtspor",
+    "short_name": "trt",
+    "clear_name": "TRT SPOR",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301597407/{profile}",
+    "slug": "trt-spor"
+  },
+  {
+    "id": 1931,
+    "technical_name": "trtsporyildiz",
+    "short_name": "tsy",
+    "clear_name": "TRT SPOR YILDIZ",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/306568586/{profile}",
+    "slug": "trt-spor-yildiz"
+  },
+  {
+    "id": 1804,
+    "technical_name": "trt1",
+    "short_name": "tr1",
+    "clear_name": "TRT1",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301589320/{profile}",
+    "slug": "trt1"
+  },
+  {
+    "id": 1775,
+    "technical_name": "tsn",
+    "short_name": "tsn",
+    "clear_name": "TSN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300813210/{profile}",
+    "slug": "tsn"
+  },
+  {
+    "id": 1841,
+    "technical_name": "tsnplus",
+    "short_name": "tsp",
+    "clear_name": "TSN Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/306346138/{profile}",
+    "slug": "tsn-plus"
+  },
+  {
+    "id": 1777,
+    "technical_name": "tsn1",
+    "short_name": "ts1",
+    "clear_name": "TSN1",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300829177/{profile}",
+    "slug": "tsn1"
+  },
+  {
+    "id": 1778,
+    "technical_name": "tsn2",
+    "short_name": "ts2",
+    "clear_name": "TSN2",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300829179/{profile}",
+    "slug": "tsn2"
+  },
+  {
+    "id": 1779,
+    "technical_name": "tsn3",
+    "short_name": "ts3",
+    "clear_name": "TSN3",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300829180/{profile}",
+    "slug": "tsn3"
+  },
+  {
+    "id": 1780,
+    "technical_name": "tsn4",
+    "short_name": "ts4",
+    "clear_name": "TSN4",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300829181/{profile}",
+    "slug": "tsn4"
+  },
+  {
+    "id": 1781,
+    "technical_name": "tsn5",
+    "short_name": "ts5",
+    "clear_name": "TSN5",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300829182/{profile}",
+    "slug": "tsn5"
+  },
+  {
+    "id": 1816,
+    "technical_name": "tudn",
+    "short_name": "tdn",
+    "clear_name": "TUDN",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301672873/{profile}",
+    "slug": "tudn"
+  },
+  {
+    "id": 383,
+    "technical_name": "tv2dk",
+    "short_name": "tvt",
+    "clear_name": "TV 2",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/180362227/{profile}",
+    "slug": "tv-2"
+  },
+  {
+    "id": 431,
+    "technical_name": "sumotv2",
+    "short_name": "st2",
+    "clear_name": "TV 2 Play",
+    "monetization_types": [
+      "buy",
+      "free",
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/249552075/{profile}",
+    "slug": "tv-2-play"
+  },
+  {
+    "id": 1933,
+    "technical_name": "tvglobobrazil",
+    "short_name": "glo",
+    "clear_name": "TV Globo",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/306571404/{profile}",
+    "slug": "tv-globo"
+  },
+  {
+    "id": 419,
+    "technical_name": "tvland",
+    "short_name": "tvl",
+    "clear_name": "TV Land",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/199382332/{profile}",
+    "slug": "tv-land"
+  },
+  {
+    "id": 1916,
+    "technical_name": "tv8turkiye",
+    "short_name": "tr8",
+    "clear_name": "TV8",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/305737797/{profile}",
+    "slug": "tv8"
+  },
+  {
+    "id": 1845,
+    "technical_name": "tv8",
+    "short_name": "tv8",
+    "clear_name": "TV8",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302735427/{profile}",
+    "slug": "tv8"
+  },
+  {
+    "id": 1910,
+    "technical_name": "tvasports",
+    "short_name": "tva",
+    "clear_name": "TVA Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305266284/{profile}",
+    "slug": "tva-sports"
+  },
+  {
+    "id": 689,
+    "technical_name": "amazontvcortos",
+    "short_name": "atc",
+    "clear_name": "TVCortos Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/260448137/{profile}",
+    "slug": "tvcortos-amazon-channel"
+  },
+  {
+    "id": 500,
+    "technical_name": "tvfplay",
+    "short_name": "tvf",
+    "clear_name": "TVF Play",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/209544767/{profile}",
+    "slug": "tvf-play"
+  },
+  {
+    "id": 1885,
+    "technical_name": "tviplayeriol",
+    "short_name": "iol",
+    "clear_name": "TVI Player",
+    "monetization_types": [
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/304773780/{profile}",
+    "slug": "tvi-player"
+  },
+  {
+    "id": 1883,
+    "technical_name": "tvingkorea",
+    "short_name": "tvk",
+    "clear_name": "TVING",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712515/{profile}",
+    "slug": "tving"
+  },
+  {
+    "id": 395,
+    "technical_name": "tvnz",
+    "short_name": "tnz",
+    "clear_name": "TVNZ",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/198261924/{profile}",
+    "slug": "tvnz"
+  },
+  {
+    "id": 1846,
+    "technical_name": "tvpublica",
+    "short_name": "tvp",
+    "clear_name": "TVPublica",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/302735577/{profile}",
+    "slug": "tvpublica"
+  },
+  {
+    "id": 1771,
+    "technical_name": "takflix",
+    "short_name": "tak",
+    "clear_name": "Takflix",
+    "monetization_types": [
+      "buy",
+      "free"
+    ],
+    "icon_url": "/icon/300757493/{profile}",
+    "slug": "takflix"
+  },
+  {
+    "id": 93,
+    "technical_name": "talktalktv",
+    "short_name": "ttv",
+    "clear_name": "Talk Talk TV",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/2422254/{profile}",
+    "slug": "talk-talk-tv"
+  },
+  {
+    "id": 502,
+    "technical_name": "tatasky",
+    "short_name": "tts",
+    "clear_name": "Tata Play",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/286806073/{profile}",
+    "slug": "tata-play"
+  },
+  {
+    "id": 497,
+    "technical_name": "comhemplay",
+    "short_name": "chp",
+    "clear_name": "Tele2 Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/208867781/{profile}",
+    "slug": "tele2-play"
+  },
+  {
+    "id": 1930,
+    "technical_name": "telemundous",
+    "short_name": "tlm",
+    "clear_name": "Telemundo",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/306568408/{profile}",
+    "slug": "telemundo"
+  },
+  {
+    "id": 1857,
+    "technical_name": "telenet",
+    "short_name": "tel",
+    "clear_name": "Telenet",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/303662154/{profile}",
+    "slug": "telenet"
+  },
+  {
+    "id": 553,
+    "technical_name": "teliaplay",
+    "short_name": "tlp",
+    "clear_name": "Telia Play",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243237817/{profile}",
+    "slug": "telia-play"
+  },
+  {
+    "id": 429,
+    "technical_name": "telstratv",
+    "short_name": "tst",
+    "clear_name": "Telstra TV",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/200846338/{profile}",
+    "slug": "telstra-tv"
+  },
+  {
+    "id": 550,
+    "technical_name": "tenk",
+    "short_name": "tnk",
+    "clear_name": "Tenk",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243232755/{profile}",
+    "slug": "tenk"
+  },
+  {
+    "id": 1774,
+    "technical_name": "tennischannel",
+    "short_name": "ten",
+    "clear_name": "Tennis Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300788711/{profile}",
+    "slug": "tennis-channel"
+  },
+  {
+    "id": 1863,
+    "technical_name": "tennistv",
+    "short_name": "tnn",
+    "clear_name": "Tennis TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304140196/{profile}",
+    "slug": "tennis-tv"
+  },
+  {
+    "id": 83,
+    "technical_name": "thecw",
+    "short_name": "tcw",
+    "clear_name": "The CW",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/950814/{profile}",
+    "slug": "the-cw"
+  },
+  {
+    "id": 1813,
+    "technical_name": "thefaplayer",
+    "short_name": "fap",
+    "clear_name": "The FA Player",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301624576/{profile}",
+    "slug": "the-fa-player"
+  },
+  {
+    "id": 470,
+    "technical_name": "filmdetective",
+    "short_name": "tfd",
+    "clear_name": "The Film Detective",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/207967267/{profile}",
+    "slug": "the-film-detective"
+  },
+  {
+    "id": 611,
+    "technical_name": "amazongreatcourses",
+    "short_name": "agc",
+    "clear_name": "The Great Courses Signature Collection Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045154/{profile}",
+    "slug": "the-great-courses-signature-collection-amazon-channel"
+  },
+  {
+    "id": 555,
+    "technical_name": "own",
+    "short_name": "own",
+    "clear_name": "The Oprah Winfrey Network",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/243244293/{profile}",
+    "slug": "the-oprah-winfrey-network"
+  },
+  {
+    "id": 207,
+    "technical_name": "rokuchannel",
+    "short_name": "rkc",
+    "clear_name": "The Roku Channel",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/76972041/{profile}",
+    "slug": "the-roku-channel"
+  },
+  {
+    "id": 440,
+    "technical_name": "threenow",
+    "short_name": "thn",
+    "clear_name": "ThreeNow",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/201914095/{profile}",
+    "slug": "threenow"
+  },
+  {
+    "id": 109,
+    "technical_name": "timvision",
+    "short_name": "tvi",
+    "clear_name": "Timvision",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/205686647/{profile}",
+    "slug": "timvision"
+  },
+  {
+    "id": 1833,
+    "technical_name": "tivibu",
+    "short_name": "tvb",
+    "clear_name": "Tivibu",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302408760/{profile}",
+    "slug": "tivibu"
+  },
+  {
+    "id": 1838,
+    "technical_name": "tivify",
+    "short_name": "tvy",
+    "clear_name": "Tivify",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/302542003/{profile}",
+    "slug": "tivify"
+  },
+  {
+    "id": 454,
+    "technical_name": "topic",
+    "short_name": "tpc",
+    "clear_name": "Topic",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/202921120/{profile}",
+    "slug": "topic"
+  },
+  {
+    "id": 413,
+    "technical_name": "travelchannel",
+    "short_name": "tra",
+    "clear_name": "Travel Channel",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/198433924/{profile}",
+    "slug": "travel-channel"
+  },
+  {
+    "id": 517,
+    "technical_name": "triart",
+    "short_name": "tap",
+    "clear_name": "TriArt Play",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/210188323/{profile}",
+    "slug": "triart-play"
+  },
+  {
+    "id": 567,
+    "technical_name": "truestory",
+    "short_name": "trs",
+    "clear_name": "True Story",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/244289819/{profile}",
+    "slug": "true-story"
+  },
+  {
+    "id": 73,
+    "technical_name": "tubitv",
+    "short_name": "tbv",
+    "clear_name": "Tubi TV",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/104966985/{profile}",
+    "slug": "tubi-tv"
+  },
+  {
+    "id": 1800,
+    "technical_name": "tubitvsports",
+    "short_name": "tbt",
+    "clear_name": "Tubi TV Sports",
+    "monetization_types": null,
+    "icon_url": "/icon/301544743/{profile}",
+    "slug": "tubi-tv-sports"
+  },
+  {
+    "id": 693,
+    "technical_name": "amazonturkonvideo",
+    "short_name": "tov",
+    "clear_name": "Turk On Video Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/266134452/{profile}",
+    "slug": "turk-on-video-amazon-channel"
+  },
+  {
+    "id": 1904,
+    "technical_name": "turkcelltvplus",
+    "short_name": "ttp",
+    "clear_name": "Turkcell TV+",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304980820/{profile}",
+    "slug": "turkcell-tv-plus"
+  },
+  {
+    "id": 577,
+    "technical_name": "tvigle",
+    "short_name": "tvg",
+    "clear_name": "TvIgle",
+    "monetization_types": [
+      "rent",
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/244592520/{profile}",
+    "slug": "tvigle"
+  },
+  {
+    "id": 1785,
+    "technical_name": "twitch",
+    "short_name": "twc",
+    "clear_name": "Twitch",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300972612/{profile}",
+    "slug": "twitch"
+  },
+  {
+    "id": 1812,
+    "technical_name": "tycsports",
+    "short_name": "tyc",
+    "clear_name": "TyC Sports",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301609187/{profile}",
+    "slug": "tyc-sports"
+  },
+  {
+    "id": 84,
+    "technical_name": "unext",
+    "short_name": "unx",
+    "clear_name": "U-NEXT",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304760702/{profile}",
+    "slug": "u-next"
+  },
+  {
+    "id": 1862,
+    "technical_name": "uamtv",
+    "short_name": "uat",
+    "clear_name": "UAM TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304069585/{profile}",
+    "slug": "uam-tv"
+  },
+  {
+    "id": 112,
+    "technical_name": "ucicinemas",
+    "short_name": "uci",
+    "clear_name": "UCIcinemas",
+    "monetization_types": [
+      "cinema"
+    ],
+    "icon_url": "/icon/3527064/{profile}",
+    "slug": "ucicinemas"
+  },
+  {
+    "id": 1886,
+    "technical_name": "uefatv",
+    "short_name": "uef",
+    "clear_name": "UEFA tv",
+    "monetization_types": [
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/304800674/{profile}",
+    "slug": "uefa-tv"
+  },
+  {
+    "id": 137,
+    "technical_name": "uktvplay",
+    "short_name": "ukt",
+    "clear_name": "UKTV Play",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/300949202/{profile}",
+    "slug": "uktv-play"
+  },
+  {
+    "id": 612,
+    "technical_name": "amazonurbanmovie",
+    "short_name": "aum",
+    "clear_name": "UMC Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248045156/{profile}",
+    "slug": "umc-amazon-channel"
+  },
+  {
+    "id": 622,
+    "technical_name": "upctv",
+    "short_name": "upc",
+    "clear_name": "UPC TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/251742052/{profile}",
+    "slug": "upc-tv"
+  },
+  {
+    "id": 1823,
+    "technical_name": "urctv",
+    "short_name": "urc",
+    "clear_name": "URC TV",
+    "monetization_types": [
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/301857950/{profile}",
+    "slug": "urc-tv"
+  },
+  {
+    "id": 322,
+    "technical_name": "usanetwork",
+    "short_name": "usn",
+    "clear_name": "USA Network",
+    "monetization_types": [
+      "free",
+      "flatrate"
+    ],
+    "icon_url": "/icon/141752011/{profile}",
+    "slug": "usa-network"
+  },
+  {
+    "id": 1860,
+    "technical_name": "univervideo",
+    "short_name": "unv",
+    "clear_name": "Univer Video",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304059466/{profile}",
+    "slug": "univer-video"
+  },
+  {
+    "id": 184,
+    "technical_name": "universalpictures",
+    "short_name": "unp",
+    "clear_name": "Universal Pictures",
+    "monetization_types": [
+      "buy"
+    ],
+    "icon_url": "/icon/41171854/{profile}",
+    "slug": "universal-pictures"
+  },
+  {
+    "id": 1889,
+    "technical_name": "amazonuniversalplus",
+    "short_name": "auc",
+    "clear_name": "Universal+ Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304872009/{profile}",
+    "slug": "universal-amazon-channel"
+  },
+  {
+    "id": 239,
+    "technical_name": "universcine",
+    "short_name": "uni",
+    "clear_name": "Universcine",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/244252120/{profile}",
+    "slug": "universcine"
+  },
+  {
+    "id": 1732,
+    "technical_name": "amazonuniverscine",
+    "short_name": "uac",
+    "clear_name": "Universcine Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292993580/{profile}",
+    "slug": "universcine-amazon-channel"
+  },
+  {
+    "id": 251,
+    "technical_name": "umc",
+    "short_name": "umc",
+    "clear_name": "Urban Movie Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/121380910/{profile}",
+    "slug": "urban-movie-channel"
+  },
+  {
+    "id": 422,
+    "technical_name": "vh1",
+    "short_name": "vho",
+    "clear_name": "VH1",
+    "monetization_types": [
+      "ads",
+      "flatrate"
+    ],
+    "icon_url": "/icon/199382338/{profile}",
+    "slug": "vh1"
+  },
+  {
+    "id": 614,
+    "technical_name": "vimoviesandtv",
+    "short_name": "vim",
+    "clear_name": "VI movies and tv",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/248952863/{profile}",
+    "slug": "vi-movies-and-tv"
+  },
+  {
+    "id": 457,
+    "technical_name": "vixtv",
+    "short_name": "vix",
+    "clear_name": "VIX ",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/306191612/{profile}",
+    "slug": "vix"
+  },
+  {
+    "id": 370,
+    "technical_name": "vodclub",
+    "short_name": "kvc",
+    "clear_name": "VOD Club",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/167804916/{profile}",
+    "slug": "vod-club"
+  },
+  {
+    "id": 245,
+    "technical_name": "vodpl",
+    "short_name": "vpl",
+    "clear_name": "VOD Poland",
+    "monetization_types": [
+      "rent",
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/116502741/{profile}",
+    "slug": "vod-poland"
+  },
+  {
+    "id": 312,
+    "technical_name": "vrtnu",
+    "short_name": "vrt",
+    "clear_name": "VRT MAX",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/301027446/{profile}",
+    "slug": "vrt-max"
+  },
+  {
+    "id": 1909,
+    "technical_name": "vtmgo",
+    "short_name": "vtm",
+    "clear_name": "VTM GO",
+    "monetization_types": [
+      "flatrate",
+      "free",
+      "ads"
+    ],
+    "icon_url": "/icon/305253360/{profile}",
+    "slug": "vtm-go"
+  },
+  {
+    "id": 332,
+    "technical_name": "vudufree",
+    "short_name": "vuf",
+    "clear_name": "VUDU Free",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/249324968/{profile}",
+    "slug": "vudu-free"
+  },
+  {
+    "id": 414,
+    "technical_name": "vvvvid",
+    "short_name": "vvv",
+    "clear_name": "VVVVID",
+    "monetization_types": [
+      "rent",
+      "ads"
+    ],
+    "icon_url": "/icon/199216638/{profile}",
+    "slug": "vvvvid"
+  },
+  {
+    "id": 1866,
+    "technical_name": "amazonvixplus",
+    "short_name": "avp",
+    "clear_name": "ViX Premium Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305959617/{profile}",
+    "slug": "vix-premium-amazon-channel"
+  },
+  {
+    "id": 76,
+    "technical_name": "viaplay",
+    "short_name": "vip",
+    "clear_name": "Viaplay",
+    "monetization_types": [
+      "flatrate",
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/914018/{profile}",
+    "slug": "viaplay"
+  },
+  {
+    "id": 1795,
+    "technical_name": "viaplaysports",
+    "short_name": "vps",
+    "clear_name": "Viaplay Sports",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301437950/{profile}",
+    "slug": "viaplay-sports"
+  },
+  {
+    "id": 458,
+    "technical_name": "vicetv",
+    "short_name": "vtv",
+    "clear_name": "Vice TV ",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/202929812/{profile}",
+    "slug": "vice-tv"
+  },
+  {
+    "id": 539,
+    "technical_name": "viddla",
+    "short_name": "vdl",
+    "clear_name": "Viddla",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/243086778/{profile}",
+    "slug": "viddla"
+  },
+  {
+    "id": 133,
+    "technical_name": "videobuster",
+    "short_name": "vdb",
+    "clear_name": "Videobuster",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/4914104/{profile}",
+    "slug": "videobuster"
+  },
+  {
+    "id": 72,
+    "technical_name": "videoland",
+    "short_name": "vil",
+    "clear_name": "Videoland",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/302491363/{profile}",
+    "slug": "videoland"
+  },
+  {
+    "id": 489,
+    "technical_name": "vidio",
+    "short_name": "vdo",
+    "clear_name": "Vidio",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/208860522/{profile}",
+    "slug": "vidio"
+  },
+  {
+    "id": 295,
+    "technical_name": "amazonviewster",
+    "short_name": "avt",
+    "clear_name": "Viewster Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732588/{profile}",
+    "slug": "viewster-amazon-channel"
+  },
+  {
+    "id": 158,
+    "technical_name": "viu",
+    "short_name": "viu",
+    "clear_name": "Viu",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/6918774/{profile}",
+    "slug": "viu"
+  },
+  {
+    "id": 53,
+    "technical_name": "volta",
+    "short_name": "vol",
+    "clear_name": "Volta",
+    "monetization_types": [
+      "buy",
+      "rent"
+    ],
+    "icon_url": "/icon/802190/{profile}",
+    "slug": "volta"
+  },
+  {
+    "id": 121,
+    "technical_name": "voot",
+    "short_name": "voo",
+    "clear_name": "Voot",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/4233119/{profile}",
+    "slug": "voot"
+  },
+  {
+    "id": 627,
+    "technical_name": "voyo",
+    "short_name": "vyo",
+    "clear_name": "Voyo",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/306344948/{profile}",
+    "slug": "voyo"
+  },
+  {
+    "id": 7,
+    "technical_name": "vudu",
+    "short_name": "vdu",
+    "clear_name": "Vudu",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/249324969/{profile}",
+    "slug": "vudu"
+  },
+  {
+    "id": 615,
+    "technical_name": "w4free",
+    "short_name": "wff",
+    "clear_name": "W4free",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/248952893/{profile}",
+    "slug": "w4free"
+  },
+  {
+    "id": 1858,
+    "technical_name": "w9",
+    "short_name": "w9f",
+    "clear_name": "W9",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/303757138/{profile}",
+    "slug": "w9"
+  },
+  {
+    "id": 354,
+    "technical_name": "wakanim",
+    "short_name": "wak",
+    "clear_name": "WAKANIM",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/154602888/{profile}",
+    "slug": "wakanim"
+  },
+  {
+    "id": 1918,
+    "technical_name": "willowtv",
+    "short_name": "wil",
+    "clear_name": "WILLOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305822956/{profile}",
+    "slug": "willow"
+  },
+  {
+    "id": 30,
+    "technical_name": "skyticket",
+    "short_name": "sko",
+    "clear_name": "WOW",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/305841946/{profile}",
+    "slug": "wow"
+  },
+  {
+    "id": 546,
+    "technical_name": "wowpresentsplus",
+    "short_name": "wow",
+    "clear_name": "WOW Presents Plus",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/243229654/{profile}",
+    "slug": "wow-presents-plus"
+  },
+  {
+    "id": 1864,
+    "technical_name": "wtatv",
+    "short_name": "wta",
+    "clear_name": "WTA TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304140342/{profile}",
+    "slug": "wta-tv"
+  },
+  {
+    "id": 260,
+    "technical_name": "wwenetwork",
+    "short_name": "wwe",
+    "clear_name": "WWE Network",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124657456/{profile}",
+    "slug": "wwe-network"
+  },
+  {
+    "id": 97,
+    "technical_name": "watcha",
+    "short_name": "wac",
+    "clear_name": "Watcha",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/2538290/{profile}",
+    "slug": "watcha"
+  },
+  {
+    "id": 171,
+    "technical_name": "watchbox",
+    "short_name": "wbx",
+    "clear_name": "Watchbox",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/11635033/{profile}",
+    "slug": "watchbox"
+  },
+  {
+    "id": 623,
+    "technical_name": "tencentvideo",
+    "short_name": "tcv",
+    "clear_name": "WeTV",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/251753956/{profile}",
+    "slug": "wetv"
+  },
+  {
+    "id": 509,
+    "technical_name": "wetv",
+    "short_name": "wet",
+    "clear_name": "WeTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209565207/{profile}",
+    "slug": "wetv"
+  },
+  {
+    "id": 1882,
+    "technical_name": "wowow",
+    "short_name": "wau",
+    "clear_name": "Wowow",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304712436/{profile}",
+    "slug": "wowow"
+  },
+  {
+    "id": 323,
+    "technical_name": "yleareena",
+    "short_name": "yle",
+    "clear_name": "Yle Areena",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/141807430/{profile}",
+    "slug": "yle-areena"
+  },
+  {
+    "id": 1764,
+    "technical_name": "yorckondemand",
+    "short_name": "yrk",
+    "clear_name": "Yorck on Demand",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/300662537/{profile}",
+    "slug": "yorck-on-demand"
+  },
+  {
+    "id": 192,
+    "technical_name": "youtube",
+    "short_name": "yot",
+    "clear_name": "YouTube",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/59562423/{profile}",
+    "slug": "youtube"
+  },
+  {
+    "id": 235,
+    "technical_name": "youtubefree",
+    "short_name": "yfr",
+    "clear_name": "YouTube Free",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/113378150/{profile}",
+    "slug": "youtube-free"
+  },
+  {
+    "id": 188,
+    "technical_name": "youtubered",
+    "short_name": "ytr",
+    "clear_name": "YouTube Premium",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/70189310/{profile}",
+    "slug": "youtube-premium"
+  },
+  {
+    "id": 1789,
+    "technical_name": "youtubesports",
+    "short_name": "yts",
+    "clear_name": "YouTube Sports",
+    "monetization_types": null,
+    "icon_url": "/icon/59562423/{profile}",
+    "slug": "youtube-sports"
+  },
+  {
+    "id": 255,
+    "technical_name": "yupptv",
+    "short_name": "ytv",
+    "clear_name": "Yupp TV",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/123324312/{profile}",
+    "slug": "yupp-tv"
+  },
+  {
+    "id": 537,
+    "technical_name": "zdf",
+    "short_name": "zdf",
+    "clear_name": "ZDF",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/242965977/{profile}",
+    "slug": "zdf"
+  },
+  {
+    "id": 286,
+    "technical_name": "amazonzdfherzkino",
+    "short_name": "azh",
+    "clear_name": "ZDF Herzkino Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/241732616/{profile}",
+    "slug": "zdf-herzkino-amazon-channel"
+  },
+  {
+    "id": 232,
+    "technical_name": "zee5",
+    "short_name": "zee",
+    "clear_name": "Zee5",
+    "monetization_types": [
+      "flatrate",
+      "ads",
+      "free"
+    ],
+    "icon_url": "/icon/93795879/{profile}",
+    "slug": "zee5"
+  },
+  {
+    "id": 297,
+    "technical_name": "ziggo",
+    "short_name": "zig",
+    "clear_name": "Ziggo TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/131083694/{profile}",
+    "slug": "ziggo-tv"
+  },
+  {
+    "id": 532,
+    "technical_name": "aha",
+    "short_name": "aha",
+    "clear_name": "aha",
+    "monetization_types": [
+      "flatrate",
+      "ads"
+    ],
+    "icon_url": "/icon/242563117/{profile}",
+    "slug": "aha"
+  },
+  {
+    "id": 1891,
+    "technical_name": "amazonalleskino",
+    "short_name": "aak",
+    "clear_name": "alleskino Amazon Channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/304872423/{profile}",
+    "slug": "alleskino-amazon-channel"
+  },
+  {
+    "id": 1751,
+    "technical_name": "beinsports",
+    "short_name": "bei",
+    "clear_name": "beIN SPORTS",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/294000940/{profile}",
+    "slug": "bein-sports"
+  },
+  {
+    "id": 150,
+    "technical_name": "swisscom",
+    "short_name": "swc",
+    "clear_name": "blue TV",
+    "monetization_types": [
+      "rent",
+      "buy",
+      "flatrate"
+    ],
+    "icon_url": "/icon/301750524/{profile}",
+    "slug": "blue-tv"
+  },
+  {
+    "id": 341,
+    "technical_name": "blutv",
+    "short_name": "blv",
+    "clear_name": "blutv",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/148125427/{profile}",
+    "slug": "blutv"
+  },
+  {
+    "id": 85,
+    "technical_name": "dtv",
+    "short_name": "dtv",
+    "clear_name": "dTV",
+    "monetization_types": [
+      "flatrate",
+      "rent"
+    ],
+    "icon_url": "/icon/1186231/{profile}",
+    "slug": "dtv"
+  },
+  {
+    "id": 542,
+    "technical_name": "filmfriend",
+    "short_name": "ffr",
+    "clear_name": "filmfriend",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/243087116/{profile}",
+    "slug": "filmfriend"
+  },
+  {
+    "id": 1756,
+    "technical_name": "filmingo",
+    "short_name": "fgo",
+    "clear_name": "filmingo",
+    "monetization_types": [
+      "rent",
+      "flatrate"
+    ],
+    "icon_url": "/icon/296185622/{profile}",
+    "slug": "filmingo"
+  },
+  {
+    "id": 257,
+    "technical_name": "fubotv",
+    "short_name": "fuv",
+    "clear_name": "fuboTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/124248862/{profile}",
+    "slug": "fubotv"
+  },
+  {
+    "id": 468,
+    "technical_name": "genflix",
+    "short_name": "gnf",
+    "clear_name": "genflix",
+    "monetization_types": [
+      "flatrate",
+      "free"
+    ],
+    "icon_url": "/icon/207966974/{profile}",
+    "slug": "genflix"
+  },
+  {
+    "id": 702,
+    "technical_name": "ibakatv",
+    "short_name": "ibt",
+    "clear_name": "iBAKATV",
+    "monetization_types": null,
+    "icon_url": "/icon/270296679/{profile}",
+    "slug": "ibakatv"
+  },
+  {
+    "id": 581,
+    "technical_name": "iqiyi",
+    "short_name": "iqi",
+    "clear_name": "iQIYI",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/245741856/{profile}",
+    "slug": "iqiyi"
+  },
+  {
+    "id": 511,
+    "technical_name": "iwanttfc",
+    "short_name": "tfc",
+    "clear_name": "iWantTFC",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "ads"
+    ],
+    "icon_url": "/icon/209565388/{profile}",
+    "slug": "iwanttfc"
+  },
+  {
+    "id": 1728,
+    "technical_name": "amazoniwonderfull",
+    "short_name": "iwa",
+    "clear_name": "iWonder Full Amazon channel",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/292990620/{profile}",
+    "slug": "iwonder-full-amazon-channel"
+  },
+  {
+    "id": 146,
+    "technical_name": "icitoutv",
+    "short_name": "itt",
+    "clear_name": "iciTouTV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/5827076/{profile}",
+    "slug": "icitoutv"
+  },
+  {
+    "id": 160,
+    "technical_name": "iflix",
+    "short_name": "ifx",
+    "clear_name": "iflix",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/260208032/{profile}",
+    "slug": "iflix"
+  },
+  {
+    "id": 1797,
+    "technical_name": "insportstv",
+    "short_name": "isp",
+    "clear_name": "inSports TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/301462835/{profile}",
+    "slug": "insports-tv"
+  },
+  {
+    "id": 1850,
+    "technical_name": "izzi",
+    "short_name": "izz",
+    "clear_name": "izzi",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/303330458/{profile}",
+    "slug": "izzi"
+  },
+  {
+    "id": 20,
+    "technical_name": "maxdomestore",
+    "short_name": "mds",
+    "clear_name": "maxdome Store",
+    "monetization_types": [
+      "rent",
+      "buy"
+    ],
+    "icon_url": "/icon/270282853/{profile}",
+    "slug": "maxdome-store"
+  },
+  {
+    "id": 697,
+    "technical_name": "mejane",
+    "short_name": "mej",
+    "clear_name": "meJane",
+    "monetization_types": [
+      "rent"
+    ],
+    "icon_url": "/icon/268285836/{profile}",
+    "slug": "mejane"
+  },
+  {
+    "id": 342,
+    "technical_name": "puhutv",
+    "short_name": "pht",
+    "clear_name": "puhutv",
+    "monetization_types": [
+      "ads"
+    ],
+    "icon_url": "/icon/148251056/{profile}",
+    "slug": "puhutv"
+  },
+  {
+    "id": 14,
+    "technical_name": "realeyz",
+    "short_name": "rlz",
+    "clear_name": "realeyz",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/441358/{profile}",
+    "slug": "realeyz"
+  },
+  {
+    "id": 541,
+    "technical_name": "rtve",
+    "short_name": "rtv",
+    "clear_name": "rtve",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/243087006/{profile}",
+    "slug": "rtve"
+  },
+  {
+    "id": 82,
+    "technical_name": "tenplay",
+    "short_name": "tpl",
+    "clear_name": "tenplay",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/925882/{profile}",
+    "slug": "tenplay"
+  },
+  {
+    "id": 1783,
+    "technical_name": "tln",
+    "short_name": "tln",
+    "clear_name": "tln",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/300946714/{profile}",
+    "slug": "tln"
+  },
+  {
+    "id": 507,
+    "technical_name": "trutv",
+    "short_name": "tru",
+    "clear_name": "tru TV",
+    "monetization_types": [
+      "flatrate"
+    ],
+    "icon_url": "/icon/209564918/{profile}",
+    "slug": "tru-tv"
+  },
+  {
+    "id": 488,
+    "technical_name": "tvo",
+    "short_name": "tvo",
+    "clear_name": "tvo",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/208860122/{profile}",
+    "slug": "tvo"
+  },
+  {
+    "id": 556,
+    "technical_name": "tvzavr",
+    "short_name": "tzr",
+    "clear_name": "tvzavr",
+    "monetization_types": [
+      "flatrate",
+      "buy",
+      "ads"
+    ],
+    "icon_url": "/icon/243246866/{profile}",
+    "slug": "tvzavr"
+  },
+  {
+    "id": 356,
+    "technical_name": "wavve",
+    "short_name": "wav",
+    "clear_name": "wavve",
+    "monetization_types": [
+      "flatrate",
+      "rent",
+      "buy",
+      "free"
+    ],
+    "icon_url": "/icon/155655742/{profile}",
+    "slug": "wavve"
+  },
+  {
+    "id": 392,
+    "technical_name": "watch4",
+    "short_name": "wa4",
+    "clear_name": "wedotv",
+    "monetization_types": [
+      "free"
+    ],
+    "icon_url": "/icon/292285601/{profile}",
+    "slug": "wedotv"
+  }
+]
