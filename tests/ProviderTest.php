@@ -19,7 +19,7 @@ class ProviderTest extends TestCase
     #[Test]
     public function checkIfHas723Providers(): void
     {
-        $this->assertEquals(723, count($this->providers->getAll()), "Oxe doido");
+        $this->assertEquals(723, count($this->providers->getAll()), "Hasn't 723 providers");
     }
 
     #[Test]
@@ -32,7 +32,7 @@ class ProviderTest extends TestCase
             }
             $providerNames[] = $provider->shortName;
         }
-        $this->assertEquals(723, count($providerNames), "Oxe doido");
+        $this->assertEquals(723, count($providerNames), "Hasn't 723 providers");
     }
 
     #[Test]
@@ -47,7 +47,7 @@ class ProviderTest extends TestCase
             $providerNames[] = $provider->iconUrl;
         }
 
-        $this->assertEquals(720, count($providerNames));
+        $this->assertEquals(720, count($providerNames), "Hasn't 720 providers");
     }
 
     protected function tearDown(): void
