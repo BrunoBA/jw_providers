@@ -1,6 +1,6 @@
 <?php
 
-function loadFromJSON()
+function loadProviders()
 {
     try {
         $file = file_get_contents(__DIR__.'/providers.json');

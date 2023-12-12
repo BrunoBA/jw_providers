@@ -16,7 +16,7 @@ class Providers
 
     private function init(): void
     {
-        $providers = loadFromJSON();
+        $providers = loadProviders();
         foreach ($providers as $provider) {
             $this->providers[] = new Provider(
                 $provider->id,
